@@ -513,7 +513,7 @@ function renderHome() {
 
   const rest = products;
 
-  const categories = ["Todas", "Ofertas do dia", ...new Set(products.map(p => p.category))];
+  const categories = ["Todas", "Ofertas do dia", ...new Set(products.map(p => p.category).filter(c => c !== "Ofertas do dia"))];
 
   filterBar.innerHTML = categories.map(cat => `
     <button class="filter-chip ${cat === activeCategory ? 'active' : ''}" onclick="setCategory('${cat}')">${cat}</button>
