@@ -147,13 +147,14 @@ a { text-decoration:none; color:inherit; }
 .card-img .discount-badge { position:absolute; top:10px; right:10px; }
 .card-body { padding:16px 16px 18px; display:flex; flex-direction:column; flex:1; }
 .card-category { font-size:11px; font-weight:700; color:var(--orange-dark); text-transform:uppercase; letter-spacing:.5px; margin-bottom:6px; }
-.card-title { font-size:14.5px; font-weight:600; line-height:1.4; margin:0 0 10px; color:var(--black); display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; overflow:hidden; min-height:40px; }
-.card-rating { display:flex; align-items:center; gap:6px; margin-bottom:8px; font-size:12px; }
+.card-title { font-size:14.5px; font-weight:600; line-height:1.4; margin:0 0 6px; color:var(--black); display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; overflow:hidden; min-height:40px; }
+.card-rating { display:flex; align-items:center; gap:6px; margin-bottom:6px; font-size:12px; }
 .card-rating .stars { color:var(--orange); font-size:12px; letter-spacing:1px; }
 .card-rating .rating-num { color:var(--gray-text); font-weight:600; }
 .stars-wrap { position:relative; display:inline-block; font-size:12px; letter-spacing:1px; color:#DDD; }
 .stars-fill { position:absolute; top:0; left:0; overflow:hidden; white-space:nowrap; color:var(--orange); }
 .card-rating .reviews-count { color:var(--gray-text-light); font-weight:400; }
+.card-summary { font-size:12px; line-height:1.4; color:var(--gray-text-light); display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; overflow:hidden; margin-bottom:4px; }
 .card-footer { margin-top:auto; }
 .sem-cupom { display:block; height:27px; }
 .card-cta { margin-top:12px; font-size:13px; font-weight:700; color:var(--orange); display:flex; align-items:center; gap:6px; }
@@ -182,6 +183,14 @@ a { text-decoration:none; color:inherit; }
 .product-price-block .price-current { font-size:34px; }
 .product-desc { font-size:15px; line-height:1.7; color:var(--gray-text); margin-bottom:26px; }
 .product-desc h3 { font-size:14px; color:var(--black); margin-bottom:8px; }
+.desc-toggle { display:inline-flex; align-items:center; gap:6px; background:none; border:none; color:var(--orange); font-weight:700; font-size:13px; cursor:pointer; padding:0; margin-bottom:12px; }
+.desc-toggle:hover { text-decoration:underline; }
+.desc-toggle svg { transition:transform .2s ease; }
+.desc-toggle.open svg { transform:rotate(180deg); }
+.desc-content { display:none; padding:16px; background:#FBFAF8; border-radius:12px; margin-bottom:20px; font-size:14px; line-height:1.7; color:var(--gray-text); }
+.desc-content.open { display:block; }
+.product-summary { font-size:14px; line-height:1.6; color:var(--gray-text); margin-bottom:16px; padding:14px 16px; background:#FFFDF5; border-left:3px solid var(--orange); border-radius:0 10px 10px 0; }
+.product-rating-block { display:flex; align-items:center; gap:10px; margin-bottom:16px; }
 .freshness-note { display:flex; align-items:center; gap:8px; font-size:12px; color:var(--gray-text-light); margin-top:16px; }
 .freshness-note .dot { width:7px; height:7px; border-radius:50%; background:var(--green); }
 
@@ -401,6 +410,37 @@ function discountBadge(pct, size) {
   return `<div class="discount-badge ${size||''}"><span class="pct">-${pct}%</span><span class="off">OFF</span></div>`;
 }
 
+function generateSummary(p) {
+  const cat = p.category || "diversos";
+  const desconto = discountPercent(p);
+  const nota = p.avaliacao || 0;
+  const reviews = p.qtd_avaliacoes || 0;
+
+  const catLabel = cat === "Ofertas do dia" ? "" : ` da categoria ${cat}`;
+
+  let txt = "";
+  if (desconto && desconto >= 30) {
+    txt = `Oferta imperdível${catLabel}! Produto com ${desconto}% de desconto`;
+  } else if (desconto) {
+    txt = `Ótima oportunidade${catLabel} com ${desconto}% de desconto`;
+  } else {
+    txt = `Produto${catLabel} com preço competitivo`;
+  }
+
+  if (nota >= 4.5 && reviews >= 1000) {
+    txt += ` e avaliação ${nota}/5 de mais de ${(reviews/1000).toFixed(0)} mil clientes.`;
+  } else if (nota >= 4.5) {
+    txt += ` e nota ${nota}/5 dos compradores.`;
+  } else if (reviews >= 1000) {
+    txt += ` com mais de ${(reviews/1000).toFixed(0)} mil avaliações.`;
+  } else {
+    txt += ` avaliado por ${reviews} clientes.`;
+  }
+
+  txt += ` Garanta o seu na Amazon antes que o estoque acabe!`;
+  return txt;
+}
+
 function couponMarkup(code) {
   if (!code) return `<span class="sem-cupom"></span>`;
   return `<button class="coupon-pill" onclick="copyCoupon(event,'${code}')">ðŸŽŸï¸ ${code}</button>`;
@@ -416,15 +456,16 @@ function productCard(p) {
         </div>
         <div class="card-body">
           <h3 class="card-title">${p.title}</h3>
-<div class="card-rating">
-  <span class="stars-wrap">★★★★★<span class="stars-fill" style="width:${(p.avaliacao/5*100)}%">★★★★★</span></span>
-  <span class="rating-num">${p.avaliacao}</span>
-  <span class="reviews-count">(${p.qtd_avaliacoes})</span>
-</div>
           <div class="price-row" style="flex-direction:column; align-items:flex-start; gap:2px;">
             ${hasDiscount ? `<span class="price-original">R$ ${fmtPrice(p.price_original)}</span>` : ''}
             <span class="price-current">R$ ${fmtPrice(p.price_current)}</span>
           </div>
+          <div class="card-rating">
+            <span class="stars-wrap">★★★★★<span class="stars-fill" style="width:${(p.avaliacao/5*100)}%">★★★★★</span></span>
+            <span class="rating-num">${p.avaliacao}</span>
+            <span class="reviews-count">(${p.qtd_avaliacoes})</span>
+          </div>
+          <div class="card-summary">${generateSummary(p)}</div>
           <div class="card-footer">
             <div class="card-cta">Ver produto
               <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14M13 6l6 6-6 6"/></svg>
@@ -592,11 +633,21 @@ function renderProduct(asin) {
             <span class="price-current">R$ ${fmtPrice(p.price_current)}</span>
             ${priceNumber(p.price_original) !== null ? `<span class="price-original">De R$ ${fmtPrice(p.price_original)}</span>` : ""}
           </div>
+          ${p.parcelamento ? `<p style="font-size:14px;color:var(--gray-text);margin:6px 0 0;">${p.parcelamento}</p>` : ""}
           ${p.coupon_code ? `<div style="margin-top:10px;">${couponMarkup(p.coupon_code)}</div>` : ""}
+          ${p.tem_selo_prime ? `<p style="font-size:13px;color:var(--green);font-weight:700;margin:8px 0 0;">Amazon Prime</p>` : ""}
         </div>
-        ${p.parcelamento ? `<p class="installment-info">${p.parcelamento}</p>` : ""}
-        ${p.tem_selo_prime ? `<p class="prime-info">Amazon Prime</p>` : ""}
-        <div class="product-desc"><h3>Sobre o produto</h3>${p.description}</div>
+        <div class="product-rating-block">
+          <span class="stars-wrap" style="font-size:16px;">★★★★★<span class="stars-fill" style="width:${(p.avaliacao/5*100)}%;font-size:16px;">★★★★★</span></span>
+          <span style="font-weight:700;font-size:15px;">${p.avaliacao}</span>
+          <span style="color:var(--gray-text-light);font-size:13px;">(${p.qtd_avaliacoes} avaliações)</span>
+        </div>
+        <div class="product-summary">${generateSummary(p)}</div>
+        <button class="desc-toggle" onclick="toggleDesc(this)" aria-expanded="false">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M6 9l6 6 6-6"/></svg>
+          Ver descrição do produto
+        </button>
+        <div class="desc-content">${p.description}</div>
         <div class="product-actions">
           <a class="btn btn-primary btn-block" href="${p.affiliate_url}" target="_blank" rel="nofollow sponsored noopener">Ver na Amazon</a>
           <div class="product-actions-row">
@@ -659,6 +710,16 @@ function sendContactEmail(event) {
     document.getElementById("contact-form-fallback").style.display = "block";
   }, 3000);
   return false;
+}
+
+function toggleDesc(btn) {
+  const content = btn.nextElementSibling;
+  const isOpen = content.classList.toggle("open");
+  btn.classList.toggle("open");
+  btn.setAttribute("aria-expanded", isOpen);
+  btn.innerHTML = isOpen
+    ? `<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M18 15l-6-6-6 6"/></svg> Esconder descrição`
+    : `<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M6 9l6 6 6-6"/></svg> Ver descrição do produto`;
 }
 
 function copyCoupon(event, code) {
