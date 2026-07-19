@@ -39,7 +39,7 @@ const PRODUCTS = [
       "Elementos de aquecimento": "2"
     },
     "affiliate_url": "https://www.amazon.com.br/El%C3%A9trico-Port%C3%A1til-Cooktop-Elgin-Double/dp/B0DCLXRD5X/ref=zg_bs_g_appliances_d_sccl_1/146-4713483-2937012?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T20:56:47.000Z",
+    "last_checked_at": "2026-07-19T21:20:29.000Z",
     "spotlight": false
   },
   {
@@ -85,7 +85,7 @@ const PRODUCTS = [
       "Dimensões do produto": "48P x 60L x 8,5A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/SUGGAR-DEPURADOR-SLIM-PRETO-DPS161PT/dp/B0B3SJ345V/ref=zg_bs_g_appliances_d_sccl_2/146-4713483-2937012?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T20:56:47.000Z",
+    "last_checked_at": "2026-07-19T21:20:29.000Z",
     "spotlight": false
   },
   {
@@ -122,7 +122,7 @@ const PRODUCTS = [
       "Disponível para compra desde": "28 agosto 2025"
     },
     "affiliate_url": "https://www.amazon.com.br/Ajust%C3%A1vel-Telesc%C3%B3pico-Antiderrapante-Deslizante-Silencioso/dp/B0FP1251TD/ref=zg_bs_g_appliances_d_sccl_3/146-4713483-2937012?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T20:56:47.000Z",
+    "last_checked_at": "2026-07-19T21:20:29.000Z",
     "spotlight": false
   },
   {
@@ -170,7 +170,7 @@ const PRODUCTS = [
       "Dimensões do produto": "48P x 80L x 8,5A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/SUGGAR-DEPURADOR-SLIM-PRETO-DPS182PT/dp/B0B3SJ8YLP/ref=zg_bs_g_appliances_d_sccl_4/146-4713483-2937012?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T20:56:47.000Z",
+    "last_checked_at": "2026-07-19T21:20:29.000Z",
     "spotlight": true
   },
   {
@@ -209,7 +209,7 @@ const PRODUCTS = [
       "Característica do material": "Perfumado"
     },
     "affiliate_url": "https://www.amazon.com.br/Dover-Roll-Defense-Banheiro-Lil%C3%A1s-510022028/dp/B0876YDWVC/ref=zg_bs_g_appliances_d_sccl_5/146-4713483-2937012?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T20:56:47.000Z",
+    "last_checked_at": "2026-07-19T21:20:29.000Z",
     "spotlight": false
   },
   {
@@ -259,7 +259,7 @@ const PRODUCTS = [
       "Local de acesso": "Carga superior"
     },
     "affiliate_url": "https://www.amazon.com.br/Lavadora-Roupas-Electrolux-LES11-Essencial/dp/B084R94R4S/ref=zg_bs_g_appliances_d_sccl_6/146-4713483-2937012?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T20:56:47.000Z",
+    "last_checked_at": "2026-07-19T21:20:29.000Z",
     "spotlight": false
   },
   {
@@ -302,7 +302,7 @@ const PRODUCTS = [
       "Dimensões do produto": "40C x 50L x 0,3A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/Oikos-conjunto-m%C3%A1quina-roupas-delicadas/dp/B086WWQX1S/ref=zg_bs_g_appliances_d_sccl_7/146-4713483-2937012?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T20:56:47.000Z",
+    "last_checked_at": "2026-07-19T21:20:29.000Z",
     "spotlight": false
   },
   {
@@ -347,7 +347,7 @@ const PRODUCTS = [
       "Local de acesso": "Carga frontal"
     },
     "affiliate_url": "https://www.amazon.com.br/Panasonic-M%C3%A1quina-Lavar-Branca-NA-F150B1W/dp/B00HGNXC8Q/ref=zg_bs_g_appliances_d_sccl_8/146-4713483-2937012?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T20:56:47.000Z",
+    "last_checked_at": "2026-07-19T21:20:29.000Z",
     "spotlight": false
   },
   {
@@ -400,7 +400,7 @@ const PRODUCTS = [
       "Local de acesso": "Carga superior"
     },
     "affiliate_url": "https://www.amazon.com.br/M%C3%A1quina-Lavar-Electrolux-Essential-Filter/dp/B09B8VWZRG/ref=zg_bs_g_appliances_d_sccl_9/146-4713483-2937012?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T20:56:47.000Z",
+    "last_checked_at": "2026-07-19T21:20:29.000Z",
     "spotlight": true
   },
   {
@@ -440,7 +440,7 @@ const PRODUCTS = [
       "Forma": "Redondo"
     },
     "affiliate_url": "https://www.amazon.com.br/Artist-Estabilizar-Eletrodom%C3%A9sticos-Antivibra%C3%A7%C3%A3o-Anti-Deslocamento/dp/B08NWQHGR4/ref=zg_bs_g_appliances_d_sccl_10/146-4713483-2937012?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T20:56:47.000Z",
+    "last_checked_at": "2026-07-19T21:20:29.000Z",
     "spotlight": false
   },
   {
@@ -483,7 +483,7 @@ const PRODUCTS = [
       "Dimensões do produto": "64,5P x 64,5L x 87,1A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/Electrolux-Lava-Lou%C3%A7a-Servi%C3%A7os-Programa-LS14E/dp/B0FLQJJ47J/ref=zg_bs_g_appliances_d_sccl_11/146-4713483-2937012?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T20:56:47.000Z",
+    "last_checked_at": "2026-07-19T21:20:29.000Z",
     "spotlight": false
   },
   {
@@ -517,7 +517,7 @@ const PRODUCTS = [
       "Marca": "SOFT"
     },
     "affiliate_url": "https://www.amazon.com.br/Refil-Filtro-Purificador-Everest-Original/dp/B07CZ3R2P8/ref=zg_bs_g_appliances_d_sccl_12/146-4713483-2937012?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T20:56:47.000Z",
+    "last_checked_at": "2026-07-19T21:20:29.000Z",
     "spotlight": false
   },
   {
@@ -553,7 +553,7 @@ const PRODUCTS = [
       "Marca": "Neri Shop"
     },
     "affiliate_url": "https://www.amazon.com.br/Capa-Brastemp-Eletrolux-Imperme%C3%A1vel-Resistente/dp/B0D7NPF9Z2/ref=zg_bs_g_appliances_d_sccl_13/146-4713483-2937012?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T20:56:47.000Z",
+    "last_checked_at": "2026-07-19T21:20:29.000Z",
     "spotlight": false
   },
   {
@@ -604,7 +604,7 @@ const PRODUCTS = [
       "Descontinuado pelo fabricante": "Não"
     },
     "affiliate_url": "https://www.amazon.com.br/Protetor-Contra-Energia-Freezer-Geladeira/dp/B0798XT2VK/ref=zg_bs_g_appliances_d_sccl_14/146-4713483-2937012?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T20:56:47.000Z",
+    "last_checked_at": "2026-07-19T21:20:29.000Z",
     "spotlight": false
   },
   {
@@ -654,7 +654,7 @@ const PRODUCTS = [
       "Local de acesso": "Carga superior"
     },
     "affiliate_url": "https://www.amazon.com.br/SUGGAR-LAVADORA-ROUPAS-LAVAMAX-LE2002BR/dp/B0BSR4QKZL/ref=zg_bs_g_appliances_d_sccl_15/146-4713483-2937012?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T20:56:47.000Z",
+    "last_checked_at": "2026-07-19T21:20:29.000Z",
     "spotlight": false
   },
   {
@@ -705,7 +705,7 @@ const PRODUCTS = [
       "Fonte de alimentação": "Alimentado a gás"
     },
     "affiliate_url": "https://www.amazon.com.br/MONDIAL-Cooktop-Bocas-Preto-Bivolt/dp/B085JFRRSW/ref=zg_bs_g_appliances_d_sccl_16/146-4713483-2937012?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T20:56:47.000Z",
+    "last_checked_at": "2026-07-19T21:20:29.000Z",
     "spotlight": false
   },
   {
@@ -757,7 +757,7 @@ const PRODUCTS = [
       "Local de acesso": "Carga superior"
     },
     "affiliate_url": "https://www.amazon.com.br/Lavadora-Electrolux-LED15-Essential-Filter/dp/B09B8W3KQP/ref=zg_bs_g_appliances_d_sccl_17/146-4713483-2937012?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T20:56:47.000Z",
+    "last_checked_at": "2026-07-19T21:20:29.000Z",
     "spotlight": true
   },
   {
@@ -804,7 +804,7 @@ const PRODUCTS = [
       "Fonte de alimentação": "Gás GLP/GN"
     },
     "affiliate_url": "https://www.amazon.com.br/Itatiaia-Essencial-Temperado-Acendimento-Autom%C3%A1tico/dp/B0B7C9HXGL/ref=zg_bs_g_appliances_d_sccl_18/146-4713483-2937012?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T20:54:24.000Z",
+    "last_checked_at": "2026-07-19T21:20:29.000Z",
     "spotlight": true
   },
   {
@@ -851,7 +851,7 @@ const PRODUCTS = [
       "Dimensões do produto": "16P x 16L x 40A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/SUGGAR-DEPURADOR-SLIM-EMBUTIR-DE62IX/dp/B0816YJYQB/ref=zg_bs_g_appliances_d_sccl_19/146-4713483-2937012?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T20:56:47.000Z",
+    "last_checked_at": "2026-07-19T21:20:29.000Z",
     "spotlight": false
   },
   {
@@ -903,7 +903,7 @@ const PRODUCTS = [
       "Fonte de alimentação": "Alimentado a gás"
     },
     "affiliate_url": "https://www.amazon.com.br/Fog%C3%A3o-Cooktop-Fischer-INFINITY-BIVOLT/dp/B07GWXBGYS/ref=zg_bs_g_appliances_d_sccl_20/146-4713483-2937012?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T20:56:47.000Z",
+    "last_checked_at": "2026-07-19T21:20:29.000Z",
     "spotlight": false
   },
   {
@@ -942,7 +942,7 @@ const PRODUCTS = [
       "Dimensões do produto": "65P x 60L x 85A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/Lava-Seca-Samsung-Programas-Lavagem/dp/B0B61WJRY5/ref=zg_bs_g_appliances_d_sccl_21/146-4713483-2937012?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T20:56:47.000Z",
+    "last_checked_at": "2026-07-19T21:20:29.000Z",
     "spotlight": false
   },
   {
@@ -989,7 +989,7 @@ const PRODUCTS = [
       "Local de acesso": "Carga superior"
     },
     "affiliate_url": "https://www.amazon.com.br/M%C3%A1quina-Branca-Brastemp-Sensor-Lavagem/dp/B0G3Y8Y619/ref=zg_bs_g_appliances_d_sccl_22/146-4713483-2937012?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T20:56:47.000Z",
+    "last_checked_at": "2026-07-19T21:20:29.000Z",
     "spotlight": true
   },
   {
@@ -1026,7 +1026,7 @@ const PRODUCTS = [
       "Disponível para compra desde": "3 outubro 2022"
     },
     "affiliate_url": "https://www.amazon.com.br/Rodinhas-Ajust%C3%A1vel-Geladeira-Resistente-Refor%C3%A7ado/dp/B0BTZBQDMC/ref=zg_bs_g_appliances_d_sccl_23/146-4713483-2937012?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T20:56:47.000Z",
+    "last_checked_at": "2026-07-19T21:20:29.000Z",
     "spotlight": false
   },
   {
@@ -1082,7 +1082,7 @@ const PRODUCTS = [
       "Marca": "Midea"
     },
     "affiliate_url": "https://www.amazon.com.br/Frigobar-Litros-Inverter-Bivolt-Midea/dp/B0FJJ3YY9B/ref=zg_bs_g_appliances_d_sccl_24/146-4713483-2937012?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T20:56:47.000Z",
+    "last_checked_at": "2026-07-19T21:20:29.000Z",
     "spotlight": false
   },
   {
@@ -1130,7 +1130,7 @@ const PRODUCTS = [
       "Dimensões do produto": "48P x 80L x 8,5A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/SUGGAR-DEPURADOR-SLIM-80CM-DPS181IX/dp/B0B3SHRP7S/ref=zg_bs_g_appliances_d_sccl_25/146-4713483-2937012?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T20:56:47.000Z",
+    "last_checked_at": "2026-07-19T21:20:29.000Z",
     "spotlight": false
   },
   {
@@ -1168,7 +1168,7 @@ const PRODUCTS = [
       "Local de acesso": "Carga frontal"
     },
     "affiliate_url": "https://www.amazon.com.br/Secadora-Roupa-Mueller-Solaris-220V/dp/B07Q6LVF9J/ref=zg_bs_g_appliances_d_sccl_26/146-4713483-2937012?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T20:56:47.000Z",
+    "last_checked_at": "2026-07-19T21:20:29.000Z",
     "spotlight": false
   },
   {
@@ -1209,7 +1209,7 @@ const PRODUCTS = [
       "Peso do produto": "19,5 Quilogramas"
     },
     "affiliate_url": "https://www.amazon.com.br/Freezer-Horizontal-Inverter-Bivolt-Midea/dp/B0FK163DY6/ref=zg_bs_g_appliances_d_sccl_27/146-4713483-2937012?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T20:56:47.000Z",
+    "last_checked_at": "2026-07-19T21:20:29.000Z",
     "spotlight": false
   },
   {
@@ -1265,7 +1265,7 @@ const PRODUCTS = [
       "Marca": "EOS"
     },
     "affiliate_url": "https://www.amazon.com.br/Frigobar-Litros-Compact-Branco-Efb80/dp/B0GQC5GM8M/ref=zg_bs_g_appliances_d_sccl_28/146-4713483-2937012?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T20:56:47.000Z",
+    "last_checked_at": "2026-07-19T21:20:29.000Z",
     "spotlight": false
   },
   {
@@ -1316,7 +1316,7 @@ const PRODUCTS = [
       "Local de acesso": "Superior"
     },
     "affiliate_url": "https://www.amazon.com.br/M%C3%A1quina-Lavar-CWN14AB-Modo-Consul/dp/B0GWFNV422/ref=zg_bs_g_appliances_d_sccl_29/146-4713483-2937012?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T20:56:47.000Z",
+    "last_checked_at": "2026-07-19T21:20:29.000Z",
     "spotlight": true
   },
   {
@@ -1369,7 +1369,7 @@ const PRODUCTS = [
       "Marca": "Midea"
     },
     "affiliate_url": "https://www.amazon.com.br/Frigobar-Litros-Inverter-Bivolt-Branco/dp/B0GJG36MCZ/ref=zg_bs_g_appliances_d_sccl_30/146-4713483-2937012?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T20:56:47.000Z",
+    "last_checked_at": "2026-07-19T21:20:29.000Z",
     "spotlight": false
   }
 ];
