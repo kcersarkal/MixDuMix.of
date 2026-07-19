@@ -64,14 +64,13 @@ a { text-decoration:none; color:inherit; }
 .header-nav a { color: var(--white); font-size:14px; font-weight:600; opacity:0.85; transition:opacity .15s ease; cursor:pointer; }
 .header-nav a:hover, .header-nav a.current { opacity:1; }
 .search-wrap { position:relative; margin:0 16px; }
-.search-input { width:100%; padding:10px 90px 10px 38px; border-radius:10px; border:1.5px solid #333; background:#1E1E1E; color:var(--white); font-size:14px; font-family:var(--font-body); outline:none; transition:border-color .15s ease; }
+.search-input { width:100%; padding:10px 90px 10px 14px; border-radius:10px; border:1.5px solid #333; background:#1E1E1E; color:var(--white); font-size:14px; font-family:var(--font-body); outline:none; transition:border-color .15s ease; }
 .search-input::placeholder { color:#666; }
 .search-input:focus { border-color:var(--orange); }
-.search-icon { position:absolute; left:12px; top:50%; transform:translateY(-50%); color:#666; pointer-events:none; }
 .search-btn { position:absolute; right:4px; top:4px; bottom:4px; padding:0 14px; border-radius:7px; border:none; background:var(--orange); color:var(--white); font-size:13px; font-weight:700; font-family:var(--font-body); cursor:pointer; transition:background .15s ease; white-space:nowrap; }
 .search-btn:hover { background:var(--orange-dark); }
 @media (min-width:641px) { .site-header { display:flex; align-items:center; } .site-header .container { flex:1; } .search-wrap { position:absolute; left:50%; transform:translateX(-50%); max-width:340px; width:100%; } }
-@media (max-width:640px) { .site-header { display:flex; flex-direction:column; } .search-wrap { max-width:none; width:100%; margin:0; padding:8px 16px 12px; border-top:1px solid #333; } .search-input { padding:10px 70px 10px 34px; font-size:13px; } .search-btn { padding:0 10px; font-size:12px; } }
+@media (max-width:640px) { .site-header { display:flex; flex-direction:column; } .search-wrap { max-width:none; width:100%; margin:0; padding:8px 16px 12px; border-top:1px solid #333; } .search-input { padding:10px 70px 10px 14px; font-size:13px; } .search-btn { padding:0 10px; font-size:12px; } }
 
 .spotlight { margin:40px 0 48px; }
 .spotlight-label { font-family:var(--font-display); font-size:20px; color:var(--orange-dark); letter-spacing:1px; margin-bottom:16px; }
@@ -265,7 +264,6 @@ a { text-decoration:none; color:inherit; }
   </div>
   <div class="search-wrap">
     <input class="search-input" id="search-input" type="text" placeholder="Buscar produtos..." oninput="onSearchInput(this.value)" onkeydown="if(event.key==='Enter'){event.preventDefault();onSearchInput(this.value)}" autocomplete="off">
-    <svg class="search-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="11" cy="11" r="8"/><path d="M21 21l-4.35-4.35"/></svg>
     <button class="search-btn" onclick="onSearchInput(document.getElementById('search-input').value)">Buscar</button>
   </div>
 </header>
