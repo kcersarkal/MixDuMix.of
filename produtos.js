@@ -66,7 +66,7 @@ const PRODUCTS = [
       "Tamanho instalado da memória RAM": "16 GB"
     },
     "affiliate_url": "https://www.amazon.com.br/Notebook-Lenovo-Essential-i5-12450HX-Windows/dp/B0H4J13B2M?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": true
   },
   {
@@ -104,7 +104,7 @@ const PRODUCTS = [
       "Volume líquido": "1 Onças líquidas"
     },
     "affiliate_url": "https://www.amazon.com.br/LOr%C3%A9al-Professionnel-Multi-benef%C3%ADcios-danificados-Prote%C3%ADnas/dp/B0918FHY6P?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -148,7 +148,7 @@ const PRODUCTS = [
       "Número de itens": "4"
     },
     "affiliate_url": "https://www.amazon.com.br/Detergente-Para-Lou%C3%A7as-Finish-Advanced/dp/B07VRYJWPB?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -186,7 +186,7 @@ const PRODUCTS = [
       "Limite de peso": "1 Quilogramas"
     },
     "affiliate_url": "https://www.amazon.com.br/Bioimped%C3%A2ncia-Bluetooth-Controle-Completo-Corporal/dp/B0DGVS763S?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -230,7 +230,7 @@ const PRODUCTS = [
       "Marca": "Rochedo"
     },
     "affiliate_url": "https://www.amazon.com.br/Frigideira-Rochedo-Antiaderente-Part%C3%ADculas-Thermo-Sinal/dp/B0DKG5X376?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -268,7 +268,7 @@ const PRODUCTS = [
       "Marca": "Lola"
     },
     "affiliate_url": "https://www.amazon.com.br/Rapunzel-Shampoo-T%C3%B4nico-Milk-Spray/dp/B0GHP4NL1J?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -324,7 +324,7 @@ const PRODUCTS = [
       "Marca": "Paulo Cezar Enxovais"
     },
     "affiliate_url": "https://www.amazon.com.br/Travesseiros-50x70cm-Lav%C3%A1vel-Anti%C3%A1caro-Antial%C3%A9rgico/dp/B0BC341R4S?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -374,7 +374,7 @@ const PRODUCTS = [
       "Velocidade do clock da GPU": "1492 MHz"
     },
     "affiliate_url": "https://www.amazon.com.br/MSI-GeForce-Express-1492MHz-14000MHz/dp/B0CSPRNRZC?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -394,7 +394,7 @@ const PRODUCTS = [
     "description": "<ul><li>ROSA AMARELO E AZUL COM FLUTAS MAMAO, BANANA E ABACAXI</li></ul>",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/FEIRA-CRONOLOLA-Cronograma-Capilar-Produtos/dp/B0DKVJ1HWB?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -437,7 +437,7 @@ const PRODUCTS = [
       "Número de itens": "12"
     },
     "affiliate_url": "https://www.amazon.com.br/Absolut-Vodka-Original-Sueca-1L/dp/B004V54ZVK?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -477,7 +477,7 @@ const PRODUCTS = [
       "Faixa etária (descrição)": "Adulto"
     },
     "affiliate_url": "https://www.amazon.com.br/Azzaro-Masculino-Fragr%C3%A2ncia-Amadeirada-Cardamomo/dp/B08ZFKB8ZK?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -522,7 +522,7 @@ const PRODUCTS = [
       "Vantagens do produto": "Promove resistência antiquebra e estimula o crescimento, ideal para cabelos frágeis e enfraquecidos."
     },
     "affiliate_url": "https://www.amazon.com.br/LOr%C3%A9al-Professionnel-Fortificante-Anti-Quebra-Crescimento/dp/B09GSRB2CM?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -561,7 +561,7 @@ const PRODUCTS = [
       "Fonte de alimentação": "Energia elétrica"
     },
     "affiliate_url": "https://www.amazon.com.br/Escova-Secadora-Glossy-Elgin-Bivolt/dp/B0DTW2K4KD?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -608,7 +608,7 @@ const PRODUCTS = [
       "Característica do material": "Reciclável"
     },
     "affiliate_url": "https://www.amazon.com.br/Professionnel-Molecular-Recupera-Desembara%C3%A7o-danificados/dp/B0D7NZ3N7P?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -628,7 +628,7 @@ const PRODUCTS = [
     "description": "<ul><li>Revolucionário, intuitivo e preciso: o controle sem fio DualShock4 para o sistema PlayStation4 define esta geração de jogos, combinando recursos revolucionários e conforto com controles precisos e intuitivos.</li><li>Controle preciso: o toque, formato e a sensibilidade dos controles analógicos e botões com gatilho do DualShock4 oferecem aos jogadores conforto e controle absolutos em todos os jogos para PlayStation4.</li><li>Compartilhamento em suas mãos: o botão SHARE facilita o compartilhamento dos seus melhores momentos nos jogos, basta pressionar um botão. Faça upload de vídeos de gameplay e capturas de tela diretamente do seu sistema ou transmita seu gameplay ao vivo, tudo isso sem afetar o andamento do jogo.</li><li>Recursos inovadores: recursos revolucionários, como o touch pad, a barra de luz e o alto-falante integrados proporcionam formas incríveis de jogar e interagir com seus jogos, e seu conector de áudio de 3,5 mm oferece uma prática solução de áudio pessoal para os jogadores que preferirem jogar com mais privacidade.</li><li>Recarga eficiente: é fácil recarregar o controle sem fio DualShock4, basta conectá-lo ao seu sistema PlayStation4 (mesmo em modo de espera), ou qualquer carregador padrão com uma porta micro USB</li></ul>",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/Controle-Dualshock-PlayStation-4-Preto/dp/B07FN1MZBH?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -669,7 +669,7 @@ const PRODUCTS = [
       "Faixa etária (descrição)": "Criança"
     },
     "affiliate_url": "https://www.amazon.com.br/Org%C3%A2nico-Mustela-Hidratante-Corporal-Ingredientes/dp/B08WLM2682?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": true
   },
   {
@@ -712,7 +712,7 @@ const PRODUCTS = [
       "Característica do material": "Biodegradável"
     },
     "affiliate_url": "https://www.amazon.com.br/M%C3%A1scara-Tratamento-Reparadora-Absolut-Professionnel/dp/B09GSR58JF?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -755,7 +755,7 @@ const PRODUCTS = [
       "Ingredientes ativos": "Afoxolaner"
     },
     "affiliate_url": "https://www.amazon.com.br/Antipulgas-Carrapatos-Nexgard-para-C%C3%A3es/dp/B07S8BMFPD?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -792,7 +792,7 @@ const PRODUCTS = [
       "Forma do produto": "Óleo"
     },
     "affiliate_url": "https://www.amazon.com.br/K%C3%A9rastase-Nutritive-Nutri%C3%A7%C3%A3o-Profunda-Travesseiro/dp/B0F2QZQWDN?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -836,7 +836,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Brinquedos, Controle de videogame, Controle remoto"
     },
     "affiliate_url": "https://www.amazon.com.br/Pilha-AA-Pequena-24-Unidades/dp/B0C9RVFRZD?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -878,7 +878,7 @@ const PRODUCTS = [
       "Vantagens do produto": "Nutritivo"
     },
     "affiliate_url": "https://www.amazon.com.br/LOREAL-PROFESSIONNEL-NutriOil-nutri%C3%A7%C3%A3o-enriquecido/dp/B0B7SH8YPV?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -920,7 +920,7 @@ const PRODUCTS = [
       "Número de itens": "91"
     },
     "affiliate_url": "https://www.amazon.com.br/Detergentes-Powerball-Embalagem-Econ%C3%B4mica-Finish/dp/B07Y3B33KG?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -972,7 +972,7 @@ const PRODUCTS = [
       "Características especiais": "Homeopático"
     },
     "affiliate_url": "https://www.amazon.com.br/Hidratante-Calmante-Fragrncia-Sens%C3%ADvel-Sensibilizada/dp/B072MTS8VQ?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -1018,7 +1018,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Aparelho auditivo, Controle remoto da TV, Câmera, Drone, Relógio"
     },
     "affiliate_url": "https://www.amazon.com.br/Carregador-Pilhas-com-pilhas-Duracell/dp/B07X4JG2G4?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -1065,7 +1065,7 @@ const PRODUCTS = [
       "Número de itens": "12"
     },
     "affiliate_url": "https://www.amazon.com.br/Banana-Brasil-Castanhas-Frutas-Unidades/dp/B0D1YLV567?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -1106,7 +1106,7 @@ const PRODUCTS = [
       "Faixa etária (descrição)": "Adulto"
     },
     "affiliate_url": "https://www.amazon.com.br/Azzaro-115689-Edt-M%C3%A1scara-50Ml/dp/B000CNKITS?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -1156,7 +1156,7 @@ const PRODUCTS = [
       "Marca": "Paulo Cezar Enxovais"
     },
     "affiliate_url": "https://www.amazon.com.br/Cobertor-Casal-Manta-Microfibra-Fleece/dp/B097C3MKSH?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -1213,7 +1213,7 @@ const PRODUCTS = [
       "Fator de forma dos fones de ouvido": "Extra-auriculares"
     },
     "affiliate_url": "https://www.amazon.com.br/JBL-Ouvido-Bluetooth-Over-Ear-Bateria/dp/B0GM1LSHQF?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -1233,7 +1233,7 @@ const PRODUCTS = [
     "description": "",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/Alchemised-Edi%C3%A7%C3%A3o-brasileira-SenLinYu/dp/855101305X?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -1275,7 +1275,7 @@ const PRODUCTS = [
       "Firmeza do produto": "Macia"
     },
     "affiliate_url": "https://www.amazon.com.br/TOYADENT-Unidades-Coloridos-Protetora-Presente/dp/B0FX44RT9W?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -1319,7 +1319,7 @@ const PRODUCTS = [
       "Teor alcoólico": "15 %"
     },
     "affiliate_url": "https://www.amazon.com.br/Jameson-Whisky-750ml/dp/B07FPW95CM?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -1339,7 +1339,7 @@ const PRODUCTS = [
     "description": "",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/Murdoku-mist%C3%A9rios-resolver-usando-l%C3%B3gica/dp/8543111536?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -1382,7 +1382,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Brinquedos, Controle de videogame, Controle remoto"
     },
     "affiliate_url": "https://www.amazon.com.br/Pilha-AAA-Pequena-24-Unidades/dp/B0C9R8RC1P?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -1442,7 +1442,7 @@ const PRODUCTS = [
       "Serviços de Internet compatíveis": "Disney Plus, Hulu Plus, Netflix, Prime Video, YouTube"
     },
     "affiliate_url": "https://www.amazon.com.br/Samsung-Vision-QLED-ULTRA-QN90F/dp/B0FKD1SFPC?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": true
   },
   {
@@ -1477,7 +1477,7 @@ const PRODUCTS = [
       "Disponível para compra desde": "18 outubro 2019"
     },
     "affiliate_url": "https://www.amazon.com.br/Roupa-%C3%8Dntima-Descart%C3%A1vel-Bigfral-Premium/dp/B07Z9KHDJ6?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -1518,7 +1518,7 @@ const PRODUCTS = [
       "Características especiais": "Esfregue na pele horas depois para reativar instantaneamente e liberar toda a fragrância!"
     },
     "affiliate_url": "https://www.amazon.com.br/Azzaro-Fragr%C3%A2ncia-Grapefruit-Equilibrada-Pr%C3%A9-treino/dp/B088WCR8M3?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -1564,7 +1564,7 @@ const PRODUCTS = [
       "Faixa etária (descrição)": "Adulto"
     },
     "affiliate_url": "https://www.amazon.com.br/PAYOT-Sabonete-Liquido-Detox-Vitamina/dp/B08CNBSPBD?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -1607,7 +1607,7 @@ const PRODUCTS = [
       "Vantagens do produto": "Cabelos 5x mais fortes, 2x mais macios e com muito mais brilho com este tratamento profissional."
     },
     "affiliate_url": "https://www.amazon.com.br/tratamento-NutriOil-nutri%C3%A7%C3%A3o-enriquecido-Professionnel/dp/B0B7SGQVT2?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -1652,7 +1652,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Desenho, pintura e projetos criativos"
     },
     "affiliate_url": "https://www.amazon.com.br/Permanente-Profissional-Organizador-Canetinhas-Hidrogr%C3%A1ficas/dp/B0FNXMZ99X?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -1692,7 +1692,7 @@ const PRODUCTS = [
       "Marca": "CADINA"
     },
     "affiliate_url": "https://www.amazon.com.br/Garrafa-T%C3%A9rmica-Esportiva-Inoxid%C3%A1vel-Isolamento/dp/B0FXZVDG74?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -1738,27 +1738,7 @@ const PRODUCTS = [
       "Esporte": "Golfe"
     },
     "affiliate_url": "https://www.amazon.com.br/Bosch-GLM-40-alcance-protetora/dp/B00R0Z7TFM?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B082481SDH",
-    "title": "Cápsulas de Café Original Nespresso Variados - 50 Cápsulas",
-    "image": "https://m.media-amazon.com/images/I/51BwrtdepjL._AC_SF452,452_QL80_.jpg",
-    "canonical": null,
-    "category": "Ofertas do dia",
-    "price_current": null,
-    "price_original": null,
-    "parcelamento": null,
-    "tem_selo_prime": false,
-    "tem_oferta": false,
-    "avaliacao": null,
-    "qtd_avaliacoes": null,
-    "coupon_code": null,
-    "description": "",
-    "informacoes_produto": {},
-    "affiliate_url": "https://www.amazon.com.br/Nespresso-50-c%C3%A1psulas-caf%C3%A9-Variado/dp/B082481SDH?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -1811,7 +1791,7 @@ const PRODUCTS = [
       "Fator de forma dos fones de ouvido": "Circumaurais"
     },
     "affiliate_url": "https://www.amazon.com.br/Baseus-BH1-Lite-Reprodu%C3%A7%C3%A3o-Confort%C3%A1vel/dp/B0G4CDKG85?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -1859,7 +1839,7 @@ const PRODUCTS = [
       "Dimensões do produto": "12C x 7L x 17A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/Herm%C3%A9ticos-Marmitas-Conserva%C3%A7%C3%A3o-Alimentos-Refrat%C3%A1rio/dp/B0GSH6DCCJ?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -1908,7 +1888,7 @@ const PRODUCTS = [
       "Dimensões do produto": "48P x 60L x 8,5A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/SUGGAR-DEPURADOR-SLIM-PRATA-DPS161PR/dp/B0B3SK926K?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -1948,7 +1928,7 @@ const PRODUCTS = [
       "Dimensões do item C x L x A": "10,1 x 24,5 x 26,6 centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/Fechadura-Digital-Sobrepor-FR-Intelbras/dp/B0GJDM2B38?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -1999,7 +1979,7 @@ const PRODUCTS = [
       "Dimensões do produto": "60P x 59,8L x 85A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/LAVA-LOUCAS-MIDEA-SERVICOS-BRANCA-127V/dp/B093M7RFL5?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -2041,7 +2021,7 @@ const PRODUCTS = [
       "Fonte de energia": "Não aplicável"
     },
     "affiliate_url": "https://www.amazon.com.br/Brastoy-Magn%C3%A9ticos-Constru%C3%A7%C3%A3o-Brinquedo-Educativo/dp/B0DD3BS1H5?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -2089,7 +2069,7 @@ const PRODUCTS = [
       "Faixa etária (descrição)": "Bebê"
     },
     "affiliate_url": "https://www.amazon.com.br/Fralda-Personal-Protect-Grande-04x44pads/dp/B0BTTLYZN9?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -2143,7 +2123,7 @@ const PRODUCTS = [
       "Marca": "HyperX"
     },
     "affiliate_url": "https://www.amazon.com.br/Microfone-USB-HyperX-QuadCast-Ilumina%C3%A7%C3%A3o/dp/B0DG9X4WHW?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -2182,7 +2162,7 @@ const PRODUCTS = [
       "Forma do produto": "Grãos"
     },
     "affiliate_url": "https://www.amazon.com.br/Areia-Higi%C3%AAnica-Chalesco-Cristais-S%C3%ADlica/dp/B07S3G6397?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -2215,7 +2195,7 @@ const PRODUCTS = [
       "Forma": "Cone"
     },
     "affiliate_url": "https://www.amazon.com.br/Filtro-para-V60-02-Gotejamento/dp/B0GK1Z61WD?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -2267,7 +2247,7 @@ const PRODUCTS = [
       "Dimensões do produto": "30P x 90L x 29A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/Samsung-Ar-condicionado-Inverter-WindFree-AR12DYFAAWKNAZ/dp/B0DM6VH5KF?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": true
   },
   {
@@ -2357,7 +2337,7 @@ const PRODUCTS = [
       "Dimensões do produto": "8,8P x 122,6L x 71,5A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/PHILIPS-Ambilight-55PUG8100-78-Bluetooth/dp/B0FPBQQ4TN?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -2443,7 +2423,7 @@ const PRODUCTS = [
       "Tamanho instalado da memória RAM": "8 GB"
     },
     "affiliate_url": "https://www.amazon.com.br/Notebook-Samsung-Galaxy-Book4-NP750XGJ-KG3BR/dp/B0D4NRBBMR?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": true
   },
   {
@@ -2514,7 +2494,7 @@ const PRODUCTS = [
       "Tamanho instalado da memória RAM": "8 GB"
     },
     "affiliate_url": "https://www.amazon.com.br/Notebook-Samsung-Galaxy-Book4-NP750XGJ-KG5BR/dp/B0D4NSS9XV?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": true
   },
   {
@@ -2592,7 +2572,7 @@ const PRODUCTS = [
       "Tamanho instalado da memória RAM": "8 GB"
     },
     "affiliate_url": "https://www.amazon.com.br/Notebook-Lenovo-IdeaPad-15IRU10-Windows/dp/B0G3CY35DN?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -2637,7 +2617,7 @@ const PRODUCTS = [
       "Faixa etária (descrição)": "Bebê"
     },
     "affiliate_url": "https://www.amazon.com.br/Fralda-Personal-Premium-Protection-unidades/dp/B0C3FSF7KF?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -2672,7 +2652,7 @@ const PRODUCTS = [
       "Marca": "Microsoft"
     },
     "affiliate_url": "https://www.amazon.com.br/Microsoft-Family-McAfee-Premium-2026/dp/B0G4X5C76L?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -2710,7 +2690,7 @@ const PRODUCTS = [
       "Tensão": "18"
     },
     "affiliate_url": "https://www.amazon.com.br/Bosch-Esmerilhadeira-bateria-18V-8-11000rpm/dp/B0FFHLVD8G?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -2769,7 +2749,7 @@ const PRODUCTS = [
       "País do Tamanho da Roupa": "Brasil"
     },
     "affiliate_url": "https://www.amazon.com.br/Braziline-Camiseta-Flamengo-Branco-Vermelho/dp/B07VMW4YJ3?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -2819,7 +2799,7 @@ const PRODUCTS = [
       "Faixa etária (descrição)": "Bebê"
     },
     "affiliate_url": "https://www.amazon.com.br/Fralda-Personal-Baby-Premium-Pants/dp/B0BGMD5LGF?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -2856,7 +2836,7 @@ const PRODUCTS = [
       "Material do cabeçote": "microfibra"
     },
     "affiliate_url": "https://www.amazon.com.br/Mop-Spray-Com-800ml-Microfibra/dp/B0H2VTGKG5?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -2900,7 +2880,7 @@ const PRODUCTS = [
       "Tipo de material livre": "Sem cloro"
     },
     "affiliate_url": "https://www.amazon.com.br/Manchas-Action-Refil-Econ%C3%B4mico-Vanish/dp/B07PNK7JSN?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -2942,7 +2922,7 @@ const PRODUCTS = [
       "Tensão": "5 Volts"
     },
     "affiliate_url": "https://www.amazon.com.br/Guitarra-Multi-Efeitos-pedaleira-Recarreg%C3%A1vel-Simula%C3%A7%C3%A3o/dp/B0DHC29HKF?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -2980,7 +2960,7 @@ const PRODUCTS = [
       "Tipo de material livre": "Livre de parabenos"
     },
     "affiliate_url": "https://www.amazon.com.br/LOr%C3%A9al-Professionnel-Danificadas-Filler-A100-Amino%C3%A1cidos/dp/B0GPSV6SFG?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -3022,7 +3002,7 @@ const PRODUCTS = [
       "Volume do produto": "240 Centímetros cúbicos"
     },
     "affiliate_url": "https://www.amazon.com.br/Nexgard-Spectra-Antipulgas-Carrapatos-Marrom/dp/B0977SH2WT?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -3059,7 +3039,7 @@ const PRODUCTS = [
       "Forma": "Redondo"
     },
     "affiliate_url": "https://www.amazon.com.br/Kit-Pe%C3%A7as-Jogo-Americano-Redondo/dp/B0FDL718YV?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -3102,7 +3082,7 @@ const PRODUCTS = [
       "Faixa etária (descrição)": "Adulto"
     },
     "affiliate_url": "https://www.amazon.com.br/Shampoo-Infusion-Hidrata%C3%A7%C3%A3o-Revitaliza%C3%A7%C3%A3o-Profunda/dp/B0F1VDP1DF?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -3148,7 +3128,7 @@ const PRODUCTS = [
       "Faixa etária (descrição)": "Adulto"
     },
     "affiliate_url": "https://www.amazon.com.br/%C3%93leo-banho-Ureadin-Calm-OleoGel/dp/B0D3J37TLY?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -3168,7 +3148,7 @@ const PRODUCTS = [
     "description": "",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/S%C3%A9rie-N%C3%A3o-Mexa-celular-arquivo/dp/855101448X?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -3208,7 +3188,7 @@ const PRODUCTS = [
       "Fonte de energia": "Não aplicável"
     },
     "affiliate_url": "https://www.amazon.com.br/Brastoy-Magn%C3%A9ticos-Infantil-Constru%C3%A7%C3%A3o-Brinquedo/dp/B0GFM3QRB5?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -3228,7 +3208,7 @@ const PRODUCTS = [
     "description": "",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/Box-Percy-Jackson-olimpianos-edi%C3%A7%C3%A3o/dp/8551008889?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -3267,7 +3247,7 @@ const PRODUCTS = [
       "Fonte de alimentação": "AC"
     },
     "affiliate_url": "https://www.amazon.com.br/GOKOCO-Escova-Secador-Cabelo-220v/dp/B0GZZZQD2G?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -3307,7 +3287,7 @@ const PRODUCTS = [
       "Faixa etária (descrição)": "Adulto"
     },
     "affiliate_url": "https://www.amazon.com.br/Shampoo-Cabelos-Brancos-Grisalhos-Professionnel/dp/B09GSRYL69?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -3343,7 +3323,7 @@ const PRODUCTS = [
       "Volume líquido": "200 Mililitros"
     },
     "affiliate_url": "https://www.amazon.com.br/LOr%C3%A9al-Professionnel-Tratamento-Filler-A100-Amino%C3%A1cidos/dp/B0GPS7LQP8?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -3382,7 +3362,7 @@ const PRODUCTS = [
       "Dimensões do produto": "48P x 8,5A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/SUGGAR-DEPURADOR-PRETO-MANTA-DI801PT/dp/B0886H2HQ4?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -3422,7 +3402,7 @@ const PRODUCTS = [
       "Número de itens": "1"
     },
     "affiliate_url": "https://www.amazon.com.br/Repelente-Corporal-Infantil-SBP-Laranja/dp/B08T6JZC6D?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -3478,7 +3458,7 @@ const PRODUCTS = [
       "Dimensões do produto": "0,3P x 3,78L x 9,05A Metros"
     },
     "affiliate_url": "https://www.amazon.com.br/Condicionado-Split-LG-Inverter-S3-Q18KL31B/dp/B0D216Q2NR?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -3525,7 +3505,7 @@ const PRODUCTS = [
       "Firmeza do produto": "Ultra macia"
     },
     "affiliate_url": "https://www.amazon.com.br/TOYADENT-Escova-Premium-Unidades-Multicolorida/dp/B0FG2DG5RH?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -3568,7 +3548,7 @@ const PRODUCTS = [
       "Característica do material": "Sem crueldade"
     },
     "affiliate_url": "https://www.amazon.com.br/M%C3%A1scara-Tratamento-Renova%C3%A7%C3%A3o-L%C2%B4Oreal-Professionnel/dp/B09GSQMJ5T?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -3609,7 +3589,7 @@ const PRODUCTS = [
       "Forma do produto": "Creme"
     },
     "affiliate_url": "https://www.amazon.com.br/Lola-Cosmetics-Spray-Subita-Repara%C3%A7%C3%A3o/dp/B074LSL2VG?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -3654,7 +3634,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Brinquedos de alto consumo, Câmeras digitais, Lanternas potentes"
     },
     "affiliate_url": "https://www.amazon.com.br/Pilha-Duracell-Recarreg%C3%A1vel-Aaa-unidades/dp/B000XSG300?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -3674,7 +3654,7 @@ const PRODUCTS = [
     "description": "",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/massacre-fam%C3%ADlia-Hope-Riley-Sager-ebook/dp/B0D8QX7J6V?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -3717,7 +3697,7 @@ const PRODUCTS = [
       "Dimensões do produto": "11,9C x 11,3L x 20,4A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/Ajust%C3%A1vel-Hamilton-Beach-80393-BZ220-Pequeno/dp/B07B7YZH79?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -3769,7 +3749,7 @@ const PRODUCTS = [
       "Ajuste ao Tamanho": "adequado"
     },
     "affiliate_url": "https://www.amazon.com.br/T%C3%AAnis-Mizuno-Space-Branco-Tamanho/dp/B0GHS7QRB5?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -3805,7 +3785,7 @@ const PRODUCTS = [
       "Faixa etária (descrição)": "Adulto"
     },
     "affiliate_url": "https://www.amazon.com.br/Cacharel-Anais-Toilette-Perfume-Feminino/dp/B01F2LB4NS?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -3845,7 +3825,7 @@ const PRODUCTS = [
       "Recomendação de superfície": "madeira, laminado, azulejo"
     },
     "affiliate_url": "https://www.amazon.com.br/Spray-MOP0556-Verde-Flash-Limp/dp/B08NF6PTG4?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -3884,7 +3864,7 @@ const PRODUCTS = [
       "Teor alcoólico": "4,6 %"
     },
     "affiliate_url": "https://www.amazon.com.br/Cerveja-Amstel-Pilsen-LATA-350/dp/B0CMXV5WLB?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -3941,7 +3921,7 @@ const PRODUCTS = [
       "Peso do produto": "12 Quilogramas"
     },
     "affiliate_url": "https://www.amazon.com.br/Cadeira-escrit%C3%B3rio-ergon%C3%B4mica-estofado-mesh%EF%BC%88Cinza/dp/B0CGWXB8MD?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -3997,7 +3977,7 @@ const PRODUCTS = [
       "Padrão de comunicação sem fio": "Bluetooth"
     },
     "affiliate_url": "https://www.amazon.com.br/Bettdow-SmartWatch-smartwatch-recebimento-notifica%C3%A7%C3%B5es/dp/B0DNHGQHMY?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -4046,7 +4026,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Brinquedos de alto consumo, Câmeras digitais, Lanternas potentes"
     },
     "affiliate_url": "https://www.amazon.com.br/Duracell-Recarreg%C3%A1vel-Longa-Vida-Pacote/dp/B00007ISWA?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -4093,7 +4073,7 @@ const PRODUCTS = [
       "Número de itens": "1"
     },
     "affiliate_url": "https://www.amazon.com.br/Whiskey-MakerS-Mark-Makers-Sabor/dp/B000WLN7AM?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -4131,7 +4111,7 @@ const PRODUCTS = [
       "Marca": "AWESHINE"
     },
     "affiliate_url": "https://www.amazon.com.br/Conjunto-Talheres-Pe%C3%A7as-Inoxid%C3%A1vel-Premium/dp/B0GYHCY6J4?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -4181,7 +4161,7 @@ const PRODUCTS = [
       "Fonte de alimentação": "Alimentado a gás"
     },
     "affiliate_url": "https://www.amazon.com.br/MONDIAL-Cooktop-Bocas-Preto-Bivolt/dp/B085JFRRSW?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -4234,7 +4214,7 @@ const PRODUCTS = [
       "Dimensões do produto": "23P x 17L x 23A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/Cafeteira-Nuova-Express-Xicaras-Bialetti/dp/B0019M4H16?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -4276,7 +4256,7 @@ const PRODUCTS = [
       "Número de itens": "1"
     },
     "affiliate_url": "https://www.amazon.com.br/HYPE-London-Dry-Gin-750ml/dp/B0CJRZF1MT?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -4312,7 +4292,7 @@ const PRODUCTS = [
       "Disponível para compra desde": "15 abril 2024"
     },
     "affiliate_url": "https://www.amazon.com.br/Maxi-Baby-Tapete-Atividades-Piano/dp/B0D1RT475C?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -4354,7 +4334,7 @@ const PRODUCTS = [
       "Dimensões do produto": "26,5C x 7,3L x 11,5A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/LUMAI-Processador-Triturador-Multifuncional-Recipiente/dp/B0F79VGM25?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -4398,7 +4378,7 @@ const PRODUCTS = [
       "Faixa etária (descrição)": "Criança"
     },
     "affiliate_url": "https://www.amazon.com.br/Ecolapis-Faber-Castell-120124-4P-Multicor/dp/B09FYL522J?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -4435,7 +4415,7 @@ const PRODUCTS = [
       "Disponível para compra desde": "28 agosto 2025"
     },
     "affiliate_url": "https://www.amazon.com.br/Ajust%C3%A1vel-Telesc%C3%B3pico-Antiderrapante-Deslizante-Silencioso/dp/B0FP1251TD?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -4455,7 +4435,7 @@ const PRODUCTS = [
     "description": "",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/%C3%BAltima-carta-Rebecca-Yarros/dp/6555658479?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -4500,7 +4480,7 @@ const PRODUCTS = [
       "Tipo de ponto": "Cepillar &amp; Cinzel"
     },
     "affiliate_url": "https://www.amazon.com.br/Ohuhu-Pincel-Marcadores-%C3%81lcool-Liquidificador/dp/B07NRB5G3Q?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -4537,7 +4517,7 @@ const PRODUCTS = [
       "Dimensões do produto": "9,3L x 25,6A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/Esportiva-Emborrachada-Derrapante-Gradiente-Rosa-Vermelho/dp/B0GQ9J35SL?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -4578,7 +4558,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Escorrer Pratos"
     },
     "affiliate_url": "https://www.amazon.com.br/Laruno-Escorredor-Talheres-Coletora-Drenagem/dp/B0H12YQQHC?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -4598,7 +4578,7 @@ const PRODUCTS = [
     "description": "",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/Atlas-do-Manual-Mundo/dp/8543111048?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -4639,7 +4619,7 @@ const PRODUCTS = [
       "Faixa etária (descrição)": "Adulto"
     },
     "affiliate_url": "https://www.amazon.com.br/Amor-Femme-Edt-30Ml-Cacharel/dp/B076X8YRLC?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -4686,7 +4666,7 @@ const PRODUCTS = [
       "Tensão": "110 Volts, 220 Volts"
     },
     "affiliate_url": "https://www.amazon.com.br/Multiplicador-Tomadas-PowerCube-Elg-PWC-R5/dp/B076HYZQMW?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -4723,7 +4703,7 @@ const PRODUCTS = [
       "Marca": "Maxi Baby"
     },
     "affiliate_url": "https://www.amazon.com.br/Maxi-Baby-Carrinho-Chocalho-Ocean/dp/B0CTD56FW3?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -4743,7 +4723,7 @@ const PRODUCTS = [
     "description": "",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/Corte-espinhos-rosas-Novas-capas/dp/6559815366?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -4783,7 +4763,7 @@ const PRODUCTS = [
       "Característica do material": "Natural"
     },
     "affiliate_url": "https://www.amazon.com.br/Limpeza-Automotiva-Completa-Revitalizador-Limpador/dp/B0C6N14MW2?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -4803,7 +4783,7 @@ const PRODUCTS = [
     "description": "",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/Nunca-minta-Freida-McFadden/dp/8501923281?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -4845,7 +4825,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Brinquedos, Controle de videogame, Controle remoto"
     },
     "affiliate_url": "https://www.amazon.com.br/Duracell-Optimum-AA-Pequena-Unidades/dp/B0BXYD49TV?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -4887,7 +4867,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "bebidas"
     },
     "affiliate_url": "https://www.amazon.com.br/Garrafa-T%C3%A9rmica-Inox-Parede-Dupla/dp/B07K8XJF9D?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -4937,7 +4917,7 @@ const PRODUCTS = [
       "Faixa etária (descrição)": "Adulto"
     },
     "affiliate_url": "https://www.amazon.com.br/Shampoo-NutriOil-nutri%C3%A7%C3%A3o-enriquecido-Professionnel/dp/B0B7SDZGBN?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -4989,7 +4969,7 @@ const PRODUCTS = [
       "Faixa etária (descrição)": "Bebê"
     },
     "affiliate_url": "https://www.amazon.com.br/Fralda-Premium-Protection-Grande-Personal/dp/B09MZXLW51?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -5009,7 +4989,7 @@ const PRODUCTS = [
     "description": "",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/Fogo-Sangue-George-R-Martin/dp/8556510760?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -5048,7 +5028,7 @@ const PRODUCTS = [
       "Material": "Polipropileno e ABS"
     },
     "affiliate_url": "https://www.amazon.com.br/Maxi-Baby-Lixeira-Antiodor-Descarte/dp/B0CVYNQB78?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -5068,7 +5048,7 @@ const PRODUCTS = [
     "description": "<ul><li>Histórias envolventes: Explore momentos únicos com Bluey, Bingo e sua família, repletos de lições e diversão.</li><li>Ilustrações vibrantes: Desenhos encantadores que capturam a essência dos personagens e suas aventuras.</li><li>Tamanho perfeito: Livrinhos em formato ideal para as mãozinhas das crianças, promovendo a leitura independente.</li><li>Presente especial: Uma escolha inesquecível para fãs de Bluey e para quem deseja incentivar a leitura desde cedo.</li></ul>",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/Bluey-Pequena-Biblioteca-Box-livrinhos/dp/6561263022?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -5088,7 +5068,7 @@ const PRODUCTS = [
     "description": "",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/Os-Neur%C3%B4nios-Leitura-Ci%C3%AAncia-Capacidade/dp/8563899449?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -5126,7 +5106,7 @@ const PRODUCTS = [
       "Número de itens": "4"
     },
     "affiliate_url": "https://www.amazon.com.br/toalhas-Buddemeyer-Doris-Banho-Claro/dp/B0GQ4488QQ?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -5167,7 +5147,7 @@ const PRODUCTS = [
       "Faixa etária (descrição)": "Adulto"
     },
     "affiliate_url": "https://www.amazon.com.br/Armani-Beauty-Masculino-Fragr%C3%A2ncia-Amadeirada/dp/B0719S9TPB?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -5217,7 +5197,7 @@ const PRODUCTS = [
       "Marca": "Paulo Cezar Enxovais"
     },
     "affiliate_url": "https://www.amazon.com.br/Cobertor-Manta-Microfibra-Solteiro-Aveludado/dp/B097YSYM8H?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -5291,7 +5271,7 @@ const PRODUCTS = [
       "Dimensões do produto": "14,3P x 72,7L x 45,2A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/Samsung-Smart-QLED-Full-QN32LS03C/dp/B0C15434GB?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -5379,7 +5359,7 @@ const PRODUCTS = [
       "Material da moldura": "Metal"
     },
     "affiliate_url": "https://www.amazon.com.br/Mesa-Dobr%C3%A1vel-Port%C3%A1til-Preta-Maleta/dp/B0GYQF5DPD?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -5427,7 +5407,7 @@ const PRODUCTS = [
       "País do Tamanho da Roupa": "Brasil"
     },
     "affiliate_url": "https://www.amazon.com.br/Keiko-Sports-Kimono-Adulto-Unissex/dp/B09XVN19HQ?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -5482,7 +5462,7 @@ const PRODUCTS = [
       "Dimensões do produto": "32,5P x 11L x 20,5A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/Nespresso-Cafeteira-Espresso-compacta-autom%C3%A1tica/dp/B099ZBTCQ3?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -5519,7 +5499,7 @@ const PRODUCTS = [
       "Marca": "Brinox"
     },
     "affiliate_url": "https://www.amazon.com.br/Brinox-Press%C3%A3o-Pressure-Antiaderente-Ceramic/dp/B0D3QPPC2X?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -5557,7 +5537,7 @@ const PRODUCTS = [
       "Faixa etária (descrição)": "Todas as fases"
     },
     "affiliate_url": "https://www.amazon.com.br/Chalesco-Tapete-Higi%C3%AAnico-Confort-Unidades/dp/B0843GC6QS?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -5606,7 +5586,7 @@ const PRODUCTS = [
       "Marca": "Paulo Cezar Enxovais"
     },
     "affiliate_url": "https://www.amazon.com.br/Percal-Len%C3%A7ol-Americana-Anti%C3%A1caro-Anti-pilling/dp/B0DHSVSVQW?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -5648,7 +5628,7 @@ const PRODUCTS = [
       "Classe de banda de frequência": "Dual-Band"
     },
     "affiliate_url": "https://www.amazon.com.br/Repetidor-Wi-Fi-TP-Link-Repetidores/dp/B0755PV4H7?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -5690,7 +5670,7 @@ const PRODUCTS = [
       "Forma do produto": "Grãos"
     },
     "affiliate_url": "https://www.amazon.com.br/Areia-Sanit%C3%A1ria-Chalesco-Cristais-S%C3%ADlica/dp/B07GSBJZ9T?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -5752,7 +5732,7 @@ const PRODUCTS = [
       "Resolução do visor": "1024 x 768"
     },
     "affiliate_url": "https://www.amazon.com.br/BenQ-Projetor-MX560C-Education-contraste/dp/B0FJS6WY8M?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -5801,7 +5781,7 @@ const PRODUCTS = [
       "Tecnologia de detecção de movimento": "Óptico"
     },
     "affiliate_url": "https://www.amazon.com.br/Mouse-Gamer-Predator-Redragon-M612/dp/B08T68T1T6?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -5862,7 +5842,7 @@ const PRODUCTS = [
       "Dimensões do produto": "77P x 25L x 59A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/Cadeira-Ergonomica-Gamer-Apoio-P%C3%A9s%EF%BC%88Rosa/dp/B0CJTYM8HT?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -5909,7 +5889,7 @@ const PRODUCTS = [
       "Descrição da bateria": "Não aplicável"
     },
     "affiliate_url": "https://www.amazon.com.br/Magn%C3%A9ticos-Constru%C3%A7%C3%A3o-Brinquedos-Infantil-Tamanho/dp/B0GFD8M69W?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -5955,7 +5935,7 @@ const PRODUCTS = [
       "Marca": "ATLAS ELETRODOMÉSTICOS"
     },
     "affiliate_url": "https://www.amazon.com.br/Atlas-M%C3%B4naco-Plus-Acendimento-Autom%C3%A1tico/dp/B091TWKZV4?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -5995,7 +5975,7 @@ const PRODUCTS = [
       "Faixa etária (descrição)": "Adulto"
     },
     "affiliate_url": "https://www.amazon.com.br/Sustagen-Senior-Complemento-Alimentar-Sabor/dp/B0BSNX8BG7?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -6015,7 +5995,7 @@ const PRODUCTS = [
     "description": "",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/Cole%C3%A7%C3%A3o-Primeira-Biblioteca-01-Livrinhos/dp/6561262131?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -6049,7 +6029,7 @@ const PRODUCTS = [
       "Disponível para compra desde": "23 outubro 2025"
     },
     "affiliate_url": "https://www.amazon.com.br/Emborrachado-Antiderrapante-Atividades-Educativas-Imperme%C3%A1vel/dp/B0FXFM2CPK?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -6100,7 +6080,7 @@ const PRODUCTS = [
       "Marca": "Paulo Cezar Enxovais"
     },
     "affiliate_url": "https://www.amazon.com.br/Cobertor-Queen-Microfibra-Fleece-Aveludado/dp/B0B71KWRXS?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -6143,7 +6123,7 @@ const PRODUCTS = [
       "Dimensões do produto": "25P x 28L x 30,5A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/Fritadeira-Cadence-Super-Fryer-FRT410/dp/B0BSNTXXDX?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -6195,7 +6175,7 @@ const PRODUCTS = [
       "Marca": "PowerA"
     },
     "affiliate_url": "https://www.amazon.com.br/Cabo-ultra-alta-velocidade-PowerA-Playstation/dp/B09F6WF4JD?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -6215,7 +6195,7 @@ const PRODUCTS = [
     "description": "",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/Quarta-asa-Rebecca-Yarros/dp/8542225856?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -6258,7 +6238,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Água"
     },
     "affiliate_url": "https://www.amazon.com.br/Garrafa-T%C3%A9rmica-AerolightTM-Black-710ml/dp/B0CT5YTTYP?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -6305,7 +6285,7 @@ const PRODUCTS = [
       "Forma do produto": "Pellet"
     },
     "affiliate_url": "https://www.amazon.com.br/Premier-Castrados-Ambientes-Internos-Frango/dp/B09S4QTNGF?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -6361,7 +6341,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Destacar e grifar textos em livros, documentos e outros materiais de papel"
     },
     "affiliate_url": "https://www.amazon.com.br/Faber-Castell-Grifpen-MT-TP6ZF-Past%C3%A9is/dp/B07QPCB3ZN?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -6381,7 +6361,7 @@ const PRODUCTS = [
     "description": "",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/Cole%C3%A7%C3%A3o-Rodrigo-destr%C3%B3i-sonhos-crist%C3%A3o/dp/6552172338?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -6416,7 +6396,7 @@ const PRODUCTS = [
       "Número de itens": "1"
     },
     "affiliate_url": "https://www.amazon.com.br/Essencial-Fragr%C3%A2ncia-Inteligente-Atomiza%C3%A7%C3%A3o-110-220v/dp/B0GHF49HZW?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -6472,7 +6452,7 @@ const PRODUCTS = [
       "Dimensões do produto": "20,5C x 26,5L centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/Quebra-Cabe%C3%A7a-38-P%C3%A7s-Viagem-Espa%C3%A7o/dp/B0D63FK3R6?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -6511,7 +6491,7 @@ const PRODUCTS = [
       "Descontinuado pelo fabricante": "Não"
     },
     "affiliate_url": "https://www.amazon.com.br/Refil-Girat%C3%B3rio-Flash-Limp-Verde/dp/B078TH4RQL?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -6560,7 +6540,7 @@ const PRODUCTS = [
       "Marca": "Genérico"
     },
     "affiliate_url": "https://www.amazon.com.br/USB-C-Metros-Turbo-R%C3%A1pido-Refor%C3%A7ado/dp/B0FPGPKYD4?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -6607,7 +6587,7 @@ const PRODUCTS = [
       "Característica do material": "Hidratante, nutritivo, sem crueldade, hipoalergênico, resistente ao desbotamento"
     },
     "affiliate_url": "https://www.amazon.com.br/LOr%C3%A9al-Professionnel-Profissional-coloridos-hidratados/dp/B0DZHPCXLJ?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -6653,7 +6633,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Jogos"
     },
     "affiliate_url": "https://www.amazon.com.br/GABINETE-REDRAGON-WIDELOAD-BRANCO-CA-604W-PRO/dp/B0CXZ6KJ8Y?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -6686,7 +6666,7 @@ const PRODUCTS = [
       "Dimensões do produto": "173C x 60L x 0,6Espessura centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/Tapete-Antiderrapante-Pilates-Fitness-Gin%C3%A1stica/dp/B0F6NXQ94L?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -6735,7 +6715,7 @@ const PRODUCTS = [
       "Tamanho": "G"
     },
     "affiliate_url": "https://www.amazon.com.br/Executiva-Imperme%C3%A1vel-Compartimento-Masculina-Refor%C3%A7ada/dp/B0DMMC9PP3?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -6777,7 +6757,7 @@ const PRODUCTS = [
       "Faixa etária (descrição)": "Adulto"
     },
     "affiliate_url": "https://www.amazon.com.br/KEUNE-VITAL-NUTRITION-SHAMPOO-300ml/dp/B01N2UMUA7?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -6819,7 +6799,7 @@ const PRODUCTS = [
       "Dimensões do produto": "32C x 53L x 64A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/Herm%C3%A9tico-Alimentos-Mantimentos-Kit-24/dp/B0G5YRSFP1?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -6857,7 +6837,7 @@ const PRODUCTS = [
       "Nível de resistência à água": "À prova d'água"
     },
     "affiliate_url": "https://www.amazon.com.br/Masculina-Couro-Trabalho-P-V-C-Preto/dp/B0CTCVF4WD?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -6896,7 +6876,7 @@ const PRODUCTS = [
       "Peso do produto": "10 Quilogramas"
     },
     "affiliate_url": "https://www.amazon.com.br/VEDO-Eletr%C3%B4nica-Iniciantes-Almofadas-Silenciosas/dp/B0G52J9ZLY?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -6916,7 +6896,7 @@ const PRODUCTS = [
     "description": "",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/Quarta-Asa-Empyrean-Livro-1-ebook/dp/B0CSF6VNMV?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -6960,7 +6940,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Aparelhos auditivos"
     },
     "affiliate_url": "https://www.amazon.com.br/Pilha-Auditiva-312-Duracell-Unidades/dp/B07W71VRGX?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -7002,7 +6982,7 @@ const PRODUCTS = [
       "Tipo de garantia": "Limitado"
     },
     "affiliate_url": "https://www.amazon.com.br/Rel%C3%B3gio-esportivo-masculino-pulseira-silicone/dp/B0H4R1985X?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -7047,7 +7027,7 @@ const PRODUCTS = [
       "Marca": "IWS I WANNA SLEEP"
     },
     "affiliate_url": "https://www.amazon.com.br/Travesseiro-Cervical-NASA-Ergon%C3%B4mico-Adicional/dp/B085BWB19X?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -7067,7 +7047,7 @@ const PRODUCTS = [
     "description": "",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/Tempestade-%C3%94nix-Sequ%C3%AAncia-fen%C3%B4menos-Empyriano/dp/8542229177?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -7103,7 +7083,7 @@ const PRODUCTS = [
       "Formato de instrumento de escrita": "Lápis de cor"
     },
     "affiliate_url": "https://www.amazon.com.br/Profissional-Armazenamento-Aveludado-Presente-Iniciantes/dp/B0GXHPDR56?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -7147,7 +7127,7 @@ const PRODUCTS = [
       "Faixa etária (descrição)": "Adulto"
     },
     "affiliate_url": "https://www.amazon.com.br/Densifique-Densite-Bodifying-Shampoo-Kerastase/dp/B01LKZ0Q20?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -7167,7 +7147,7 @@ const PRODUCTS = [
     "description": "",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/duologia-Divinos-Rivais-Rebecca-Ross/dp/6585348818?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -7187,7 +7167,7 @@ const PRODUCTS = [
     "description": "",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/Coisa-rico-vida-endinheirados-brasileiros/dp/6556928585?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -7237,7 +7217,7 @@ const PRODUCTS = [
       "Tamanho": "39 cm x 33 cm x 13,5 cm"
     },
     "affiliate_url": "https://www.amazon.com.br/Bolsa-Tote-Daily-Clear-Gocase/dp/B0F19B2BXR?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   },
   {
@@ -7292,7 +7272,7 @@ const PRODUCTS = [
       "Padrão de comunicação sem fio": "Bluetooth"
     },
     "affiliate_url": "https://www.amazon.com.br/Masculino-Smartwatch-Inteligente-Bluetooth-Exerc%C3%ADcio/dp/B0F6D6SVMN?tag=mixdm22-20",
-    "last_checked_at": "2026-07-19T12:34:51.000Z",
+    "last_checked_at": "2026-07-19T13:00:56.000Z",
     "spotlight": false
   }
 ];
