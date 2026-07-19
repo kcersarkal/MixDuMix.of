@@ -638,7 +638,7 @@ const PRODUCTS = [
     "canonical": null,
     "category": "Ofertas do dia",
     "price_current": 77.22,
-    "price_original": 3217.5,
+    "price_original": 119.99,
     "parcelamento": "12x de R$ 7,13 com juros",
     "tem_selo_prime": true,
     "tem_oferta": true,
