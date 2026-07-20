@@ -39,7 +39,7 @@ const PRODUCTS = [
       "Elementos de aquecimento": "2"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DCLXRD5X?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -85,7 +85,7 @@ const PRODUCTS = [
       "Dimensões do produto": "48P x 60L x 8,5A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0B3SJ345V?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -122,7 +122,7 @@ const PRODUCTS = [
       "Disponível para compra desde": "28 agosto 2025"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FP1251TD?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -172,7 +172,7 @@ const PRODUCTS = [
       "Tipo de Acabamento": "Preto Revestido em Pó"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0B3SJ8YLP?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -211,7 +211,7 @@ const PRODUCTS = [
       "Característica do material": "Perfumado"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0876YDWVC?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -261,7 +261,7 @@ const PRODUCTS = [
       "Local de acesso": "Carga superior"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B084R94R4S?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -304,7 +304,7 @@ const PRODUCTS = [
       "Local de acesso": "Carga frontal"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B00DCTI47M?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -347,7 +347,7 @@ const PRODUCTS = [
       "Dimensões do produto": "40C x 50L x 0,3A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B086WWQX1S?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -400,7 +400,7 @@ const PRODUCTS = [
       "Local de acesso": "Carga superior"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B09B8VWZRG?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -440,7 +440,7 @@ const PRODUCTS = [
       "Forma": "Redondo"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B08NWQHGR4?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -483,7 +483,7 @@ const PRODUCTS = [
       "Dimensões do produto": "64,5P x 64,5L x 87,1A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FLQJJ47J?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -535,7 +535,7 @@ const PRODUCTS = [
       "Local de acesso": "Carga superior"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B09B8W3KQP?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -569,7 +569,7 @@ const PRODUCTS = [
       "Marca": "SOFT"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07CZ3R2P8?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -620,7 +620,7 @@ const PRODUCTS = [
       "Descontinuado pelo fabricante": "Não"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0798XT2VK?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": true
   },
   {
@@ -656,7 +656,7 @@ const PRODUCTS = [
       "Marca": "Neri Shop"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0D7NPF9Z2?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -707,7 +707,7 @@ const PRODUCTS = [
       "Fonte de alimentação": "Alimentado a gás"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B085JFRRSW?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -757,7 +757,7 @@ const PRODUCTS = [
       "Local de acesso": "Carga superior"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0BSR4QKZL?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -804,7 +804,7 @@ const PRODUCTS = [
       "Fonte de alimentação": "Gás GLP/GN"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0B7C9HXGL?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -853,7 +853,7 @@ const PRODUCTS = [
       "Tipo de Acabamento": "Aço inoxidável"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0816YJYQB?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -905,7 +905,7 @@ const PRODUCTS = [
       "Fonte de alimentação": "Alimentado a gás"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07GWXBGYS?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -945,7 +945,7 @@ const PRODUCTS = [
       "Característica Especial": "Cuidado com lã, Inverter"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0B61WJRY5?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -993,7 +993,7 @@ const PRODUCTS = [
       "Local de acesso": "Carga superior"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0G3Y8Y619?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -1030,7 +1030,7 @@ const PRODUCTS = [
       "Disponível para compra desde": "3 outubro 2022"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0BTZBQDMC?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -1080,7 +1080,7 @@ const PRODUCTS = [
       "Tipo de Acabamento": "Aço inoxidável"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0B3SHRP7S?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -1136,7 +1136,7 @@ const PRODUCTS = [
       "Marca": "Midea"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FJJ3YY9B?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -1174,7 +1174,7 @@ const PRODUCTS = [
       "Local de acesso": "Carga frontal"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07Q6LVF9J?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -1227,7 +1227,7 @@ const PRODUCTS = [
       "Marca": "Midea"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GJG36MCZ?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -1269,7 +1269,7 @@ const PRODUCTS = [
       "Peso do produto": "19,5 Quilogramas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FK163DY6?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -1321,7 +1321,7 @@ const PRODUCTS = [
       "Local de acesso": "Superior"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GWFNV422?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -1377,7 +1377,7 @@ const PRODUCTS = [
       "Marca": "HQ Screen"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DTZQP72X?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -1427,7 +1427,7 @@ const PRODUCTS = [
       "Local de acesso": "Carga frontal"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0BSR4TZK2?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -1476,7 +1476,7 @@ const PRODUCTS = [
       "Dimensões do produto": "45P x 44,8L x 61A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B09B9D1YQV?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -1523,7 +1523,7 @@ const PRODUCTS = [
       "Fonte de alimentação": "Gás GLP / GN"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DJ3C9MGL?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -1568,7 +1568,7 @@ const PRODUCTS = [
       "Fonte de alimentação": "Gás GLP/GN"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0BH75ZS8Y?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -1602,7 +1602,7 @@ const PRODUCTS = [
       "Disponível para compra desde": "6 janeiro 2026"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GFC12YMZ?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -1640,7 +1640,7 @@ const PRODUCTS = [
       "Forma": "Quadrado"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CQL4T98R?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -1682,7 +1682,7 @@ const PRODUCTS = [
       "Característica Especial": "Dobrável, Leve, Pendurável"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0F7W57TWG?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -1733,7 +1733,7 @@ const PRODUCTS = [
       "Tipo de Combustível": "Gás natural"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B085JG3T6S?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -1771,7 +1771,7 @@ const PRODUCTS = [
       "Dimensões do produto": "60P x 59,8L x 85A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B093XZ9TLW?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -1822,7 +1822,7 @@ const PRODUCTS = [
       "Local de acesso": "Carga superior"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07TMRJFNZ?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -1872,7 +1872,7 @@ const PRODUCTS = [
       "Fonte de alimentação": "Gás"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B085JFZHJ6?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -1911,7 +1911,7 @@ const PRODUCTS = [
       "Marca": "Midea"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B093Y3WMXX?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -1947,7 +1947,7 @@ const PRODUCTS = [
       "Marca": "Neri Shop"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0D279PP52?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -1994,7 +1994,7 @@ const PRODUCTS = [
       "Dimensões do produto": "30P x 80L x 17,6A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CMJRVJ4V?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -2035,7 +2035,7 @@ const PRODUCTS = [
       "Local de acesso": "Carga frontal"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B08L9RHPCF?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -2081,7 +2081,7 @@ const PRODUCTS = [
       "Fonte de alimentação": "Alimentado a gás"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0B3SFNZ7J?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -2130,7 +2130,7 @@ const PRODUCTS = [
       "Fonte de alimentação": "GÁS GLP/GN"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B076JLW8D5?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -2183,7 +2183,7 @@ const PRODUCTS = [
       "Local de acesso": "Superior"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GWFRN9J6?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -2233,7 +2233,7 @@ const PRODUCTS = [
       "Marca": "Electrolux"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FVMH1K2Y?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -2280,7 +2280,7 @@ const PRODUCTS = [
       "Fonte de alimentação": "Elétrico com fio"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0F2JMT8MN?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -2332,7 +2332,7 @@ const PRODUCTS = [
       "Local de acesso": "Carga superior"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CDZKFFLC?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -2382,7 +2382,7 @@ const PRODUCTS = [
       "Tipo de Acabamento": "Revestido em pó"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0BSP3R2HR?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -2437,7 +2437,7 @@ const PRODUCTS = [
       "Marca": "Electrolux"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07K29F3SB?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -2484,7 +2484,7 @@ const PRODUCTS = [
       "Fonte de alimentação": "Gás GLP / GN"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DJ3CLH7M?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -2526,7 +2526,7 @@ const PRODUCTS = [
       "Marca": "Consul"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07HM9JL5K?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -2575,7 +2575,7 @@ const PRODUCTS = [
       "Local de acesso": "Carga superior"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0G3Y61JMT?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -2624,7 +2624,7 @@ const PRODUCTS = [
       "Nome do Modelo": "Monaco Plus"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B091TWKZV4?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -2665,7 +2665,7 @@ const PRODUCTS = [
       "Tipo de Acabamento": "preto"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0886H2HQ4?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -2698,7 +2698,7 @@ const PRODUCTS = [
       "Local de acesso": "Carga frontal"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B084RX82RT?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -2742,7 +2742,7 @@ const PRODUCTS = [
       "Fonte de alimentação": "Gás elétrico"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FFTK3656?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -2788,7 +2788,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Diversos"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0754J12RW?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -2808,7 +2808,7 @@ const PRODUCTS = [
     "description": "<ul><li>SOM VIBRANTE E POTENTE - Experimente um áudio aprimorado — vocais mais nítidos, graves mais potentes — para uma experiência Echo Dot ainda mais imersiva.</li><li>SUAS MÚSICAS E CONTEÚDOS FAVORITOS - Reproduza músicas e podcasts do Amazon Music, Apple Music, Spotify, entre outros, ou por Bluetooth em todos os ambientes da sua casa.</li><li>SEMPRE DISPONÍVEL PARA AJUDAR - Pergunte a previsão do tempo para Alexa, defina timers com sua voz, obtenha respostas e ouça piadas. Precisa de mais uns minutinhos de sono pela manhã? É só tocar no seu Echo Dot para adiar o alarme.</li><li>MAIS CONFORTO EM CASA - Controle dispositivos de casa inteligente compatíveis por voz ou com rotinas ativadas por sensores de temperatura internos. Crie rotinas para ligar o ar condicionado se a temperatura interna estiver mais quente que o ideal.</li><li>DESENVOLVIDO PARA PROTEGER A SUA PRIVACIDADE - A Amazon não vende informações pessoais de clientes. O Echo Dot foi construído com várias camadas de controles de privacidade, incluindo o botão de desligar o microfone.</li><li>APROVEITE AO MÁXIMO O PAREAMENTO DE DISPOSITIVOS - Escute música na casa toda usando os dispositivos Echo compatíveis em cômodos diferentes ou crie um sistema de home theater com o Fire TV.</li></ul>",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B09B8VGCR8?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -2852,7 +2852,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Brinquedos, Controle de videogame, Controle remoto"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0C9RVFRZD?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -2902,7 +2902,7 @@ const PRODUCTS = [
       "Característica Especial": "Compatível com Apple AirPlay e HomeKit, Compatível com Google Home, Compatível com Alexa"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FH7LY3R4?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -2948,7 +2948,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Brinquedos"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0754KMGFN?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -3022,7 +3022,7 @@ const PRODUCTS = [
       "Velocidade do CPU": "2,4 GHz"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FPYV6K68?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -3082,7 +3082,7 @@ const PRODUCTS = [
       "Tipo de garantia": "Ilimitada"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CVCLGV1W?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -3131,7 +3131,7 @@ const PRODUCTS = [
       "Tensão": "110 Volts, 220 Volts"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0D8V3QLDD?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -3190,7 +3190,7 @@ const PRODUCTS = [
       "Fator de forma dos fones de ouvido": "Intra-auricular"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B084S6BCJN?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -3210,7 +3210,7 @@ const PRODUCTS = [
     "description": "<ul><li>Evolua sua TV instantaneamente – O Fire TV Stick HD é nosso streaming stick HD mais rápido até agora, com uma navegação simplificada que leva você direto ao seu entretenimento. Leve seus filmes, séries e TV ao vivo para onde você for com o novo perfil ultraportátil. E veja tudo ganhar vida com Full HD nítido e suporte a Wi-Fi 6.</li><li>Jogue jogos Xbox – Jogue Call of Duty: Black Ops 7, Outer Worlds 2, Ninja Gaiden 4 e centenas de jogos no seu Fire TV Stick HD com Xbox Game Pass via nuvem. Assinatura do Xbox Game Pass e controle compatível necessários. Cada um deles é vendido separadamente.</li><li>A nova experiência Fire TV (lançamento 2026) – Nossa maior atualização do Fire TV tem um design novo e moderno que leva você ao seu entretenimento rapidamente. Navegue por categorias de conteúdo dedicadas e fixe mais dos seus aplicativos favoritos. Passe menos tempo procurando e mais tempo assistindo.</li><li>Todos os seus aplicativos em um só lugar – Prime Video, Netflix, YouTube, Disney+, Apple TV, HBO Max, Globoplay e outros. É fácil encontrar o que assistir entre mais de 250 mil filmes e episódios de séries, incluindo episódios de conteúdo gratuito com anúncios. Taxas de assinatura podem ser necessárias.</li><li>Nosso stick mais portátil – Fino e leve, sem bagunça. Conecta diretamente na porta HDMI da sua TV sem bloquear outras portas. Agora alimentado pela sua TV com o cabo USB-C incluso e elimina a necessidade de um adaptador de energia.</li><li>Escolhas mais inteligentes com Alexa – Encontrar o que você ama nunca foi tão fácil. Pressione o botão de voz do controle remoto e fale naturalmente para encontrar o que assistir em seus aplicativos, gerenciar sua casa inteligente ou mergulhar em praticamente qualquer tópico.</li><li>Controle remoto por voz com Alexa – Controle sua TV, soundbar e receptor compatíveis com botões dedicados para ligar/desligar e de volume. Use os botões predefinidos para abrir os principais aplicativos. Durante a configuração do dispositivo você receberá, no e-mail da sua conta Amazon, o convite para Alexa+. Caso prefira, você pode ativar Alexa+ por voz usando o controle do seu Fire TV Stick: pressione e segure o botão Alexa e fale: \"Alexa, vamos começar\" e ative Alexa+ na tela da sua TV.</li><li>Controle sua casa inteligente – Peça para Alexa dizer a previsão do tempo, diminuir as luzes, mostrar câmeras ao vivo, tocar música e muito mais com dispositivos compatíveis.</li><li>Escute por Bluetooth – Conecte seus fones de ouvido Bluetooth para escutar de forma privada e assistir TV sem incomodar quem está ao seu redor.</li></ul>",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0DVK166SV?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -3287,7 +3287,7 @@ const PRODUCTS = [
       "Fator de forma dos fones de ouvido": "Intra-auricular"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CRTYZG5C?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -3331,7 +3331,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Controlador de jogos"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0B2YJK7KF?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -3389,7 +3389,7 @@ const PRODUCTS = [
       "Fator de forma dos fones de ouvido": "Circumaurais"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FJMHMCBZ?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -3455,7 +3455,7 @@ const PRODUCTS = [
       "Fator de forma dos fones de ouvido": "Intra-auricular"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DVMQVVDY?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -3502,7 +3502,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Aparelho auditivo, Controle remoto da TV, Câmera, Drone, Relógio"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07X4JG2G4?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -3576,7 +3576,7 @@ const PRODUCTS = [
       "Dimensões do produto": "8P x 89L x 51A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GJTCF75W?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -3619,7 +3619,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Brinquedos, Controle de videogame, Controle remoto"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0C9R8RC1P?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -3702,7 +3702,7 @@ const PRODUCTS = [
       "Peso do produto": "3,9 Quilogramas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B098YHFT9S?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -3746,7 +3746,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Controle remoto da TV"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B09LD48ZZ4?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -3766,7 +3766,7 @@ const PRODUCTS = [
     "description": "<ul><li>CONHEÇA O ECHO SPOT - Um despertador inteligente com som vibrante e Alexa. Sempre pronto para te ajudar a acordar, relaxar e muito mais.</li><li>DESPERTADOR INTELIGENTE PERSONALIZÁVEL - Veja facilmente a hora, a previsão do tempo e nomes de música, controle dispositivos de casa inteligente e muito mais. Personalize o display com seu design preferido de relógio e cores divertidas.</li><li>SOM POTENTE E VIBRANTE - Curta sons com vocais nítidos e graves profundos. É só pedir para Alexa reproduzir música, podcasts e audiolivros. Veja o título do que está tocando e controle sua música também por toque.</li><li>SUA VIDA MAIS FÁCIL - Crie uma rotina de Alexa para acordar aos poucos ao som de música e com iluminação gradual. Veja rapidamente a hora, confira os lembretes ou peça para Alexa dizer a previsão do tempo.</li><li>SUA CASA MAIS CONFORTÁVEL - Controle dispositivos de casa inteligente compatíveis. É só pedir para Alexa ou tocar no display para ligar ou desligar luzes inteligentes. Crie rotinas para desligar o ar-condicionado quando você sair de casa ou acender as luzes ao pôr do sol.</li><li>DESENVOLVIDO PARA PROTEGER A SUA PRIVACIDADE - A Amazon não vende informações pessoais de clientes. O Echo Spot foi construído com várias camadas de controles de privacidade, incluindo o botão de desligar o microfone e controles no aplicativo.</li><li>DESENVOLVIDO PENSANDO NA SUSTENTABILIDADE - Esse dispositivo foi feito com 36% de materiais reciclados.</li></ul>",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0C2RS4ZG6?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -3835,7 +3835,7 @@ const PRODUCTS = [
       "Velocidade do CPU": "2,6 GHz"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DYVMS335?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -3872,7 +3872,7 @@ const PRODUCTS = [
       "Marca": "intelbras"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0999NKXF9?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -3915,7 +3915,7 @@ const PRODUCTS = [
       "Marca": "ELG"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0765P3DB8?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -3941,7 +3941,7 @@ const PRODUCTS = [
       "Tamanho da Tela": "6,3 Polegadas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GQW2J4SK?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -4002,7 +4002,7 @@ const PRODUCTS = [
       "Fator de forma dos fones de ouvido": "Circumaurais"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0C4CCMNQT?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -4059,7 +4059,7 @@ const PRODUCTS = [
       "Fator de forma dos fones de ouvido": "Extra-auriculares"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GM1LSHQF?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -4106,7 +4106,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Controles automotivos, Placas-mãe de computador, Relógio"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B08DQQC61G?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -4148,7 +4148,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Brinquedos, Controle de videogame, Controle remoto"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0BXYD49TV?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -4217,7 +4217,7 @@ const PRODUCTS = [
       "Resolução máxima do visor": "1920 x 1200 Pixels"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0G4SLJNFF?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -4295,7 +4295,7 @@ const PRODUCTS = [
       "Dimensões do produto": "2,89P x 14,45L x 8,98A Metros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GH2L5MZL?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -4372,7 +4372,7 @@ const PRODUCTS = [
       "Velocidade do CPU": "2,4 GHz"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FPPQ5T37?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -4398,7 +4398,7 @@ const PRODUCTS = [
       "Resolução": "2160 x 1080"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DJFTJ6LX?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -4458,7 +4458,7 @@ const PRODUCTS = [
       "Padrão de comunicação sem fio": "Bluetooth"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DNHGQHMY?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -4536,7 +4536,7 @@ const PRODUCTS = [
       "Resolução máxima do visor": "2560 x 1600 Pixels"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0F9B9QDNK?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -4571,7 +4571,7 @@ const PRODUCTS = [
       "Número de itens": "2"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GKCHNJFL?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -4627,7 +4627,7 @@ const PRODUCTS = [
       "Descrição da Superfície da Tela": "Fosco"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0F4L1SBV3?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -4653,7 +4653,7 @@ const PRODUCTS = [
       "Capacidade de Armazenamento de Memória": "128 GB"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CP6CR795?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -4712,7 +4712,7 @@ const PRODUCTS = [
       "Velocidade do CPU": "4,6 GHz"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FTC96JJ5?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -4780,7 +4780,7 @@ const PRODUCTS = [
       "Peso do produto": "5,2 Quilogramas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GJ7H8WLW?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -4816,7 +4816,7 @@ const PRODUCTS = [
       "Número máximo de dispositivos suportados": "1"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0H161WG23?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -4866,7 +4866,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Brinquedos de alto consumo, Câmeras digitais, Lanternas potentes"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B00007ISWA?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -4916,7 +4916,7 @@ const PRODUCTS = [
       "Fator de forma dos fones de ouvido": "True Wireless"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DB52X2ZW?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -4981,7 +4981,7 @@ const PRODUCTS = [
       "Descrição da Superfície da Tela": "Fosco"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0D8DPT7ZY?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -5026,7 +5026,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Brinquedos, Controles remotos, Flash de câmera"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07LCTKD4D?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -5072,7 +5072,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Brinquedos de alto consumo, Câmeras digitais, Lanternas potentes"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B000XSG300?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -5107,7 +5107,7 @@ const PRODUCTS = [
       "Quantidade de embalagens do produto": "1"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0C71VM2ZS?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -5171,7 +5171,7 @@ const PRODUCTS = [
       "Capacidade de Armazenamento de Memória": "8 GB"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GL9QPQYL?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -5215,7 +5215,7 @@ const PRODUCTS = [
       "Protocolo de conectividade": "Wi-Fi"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FTT42SDP?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -5287,7 +5287,7 @@ const PRODUCTS = [
       "Fator de forma dos fones de ouvido": "Intra-auricular"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FDB9Z96L?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -5359,7 +5359,7 @@ const PRODUCTS = [
       "Dimensões do produto": "11,7P x 73,3L x 45,2A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0F38JYBZB?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -5438,7 +5438,7 @@ const PRODUCTS = [
       "Característica Especial": "Detecção De Movimento, Giratória, Prova D'água, Visão Noturna Infravermelho, Áudio Bidirecional"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0H3QJ9PX1?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -5513,7 +5513,7 @@ const PRODUCTS = [
       "Velocidade do CPU": "2,2 GHz"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DHWF5G76?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -5589,7 +5589,7 @@ const PRODUCTS = [
       "Resolução máxima do visor": "2304 x 1440 Pixels"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0F3LTWYS5?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -5635,7 +5635,7 @@ const PRODUCTS = [
       "Nome do Modelo": "iPhone 16"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DJFS7GXV?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": true
   },
   {
@@ -5677,7 +5677,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "GPS"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0977CLHW5?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -5729,7 +5729,7 @@ const PRODUCTS = [
       "Velocidade do CPU": "2,2 GHz"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0F9MNPVKG?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -5809,7 +5809,7 @@ const PRODUCTS = [
       "Dimensões do produto": "8P x 73L x 46A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FVY9MD19?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -5850,7 +5850,7 @@ const PRODUCTS = [
       "Dispositivos Compatíveis": "Televisão"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0G467TPS1?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -5909,7 +5909,7 @@ const PRODUCTS = [
       "Tipo de Instalação": "Disco rígido interno"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DBR3DZWG?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -5955,7 +5955,7 @@ const PRODUCTS = [
       "Dimensões do item C x L x A": "10,4 x 12,2 x 6,7 centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0BX8WSXFG?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -5995,7 +5995,7 @@ const PRODUCTS = [
       "Marca": "Electrolux"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0F256HPZJ?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -6035,7 +6035,7 @@ const PRODUCTS = [
       "Dimensões do produto": "22,3P x 21,5L x 7,8A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CDJ4L7CZ?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -6086,7 +6086,7 @@ const PRODUCTS = [
       "Dimensões do produto": "20P x 21L x 40A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07QK91PTZ?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -6132,7 +6132,7 @@ const PRODUCTS = [
       "Característica Especial": "Multiuso"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B09VQ39F41?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -6181,7 +6181,7 @@ const PRODUCTS = [
       "Dimensões do produto": "27,1C x 18,8L x 20,5A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B09XJL4B9H?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -6224,7 +6224,7 @@ const PRODUCTS = [
       "Marca": "Pazie"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GYSBW68G?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -6278,7 +6278,7 @@ const PRODUCTS = [
       "Dimensões do produto": "32P x 36,1L x 36A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0BZJDLT6Z?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -6326,7 +6326,7 @@ const PRODUCTS = [
       "Dimensões do produto": "22P x 21L x 42A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B08DFJRCJB?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -6371,7 +6371,7 @@ const PRODUCTS = [
       "Nível de torragem": "Torra clara"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CN1L7B18?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -6426,7 +6426,7 @@ const PRODUCTS = [
       "Dimensões do produto": "40,3P x 30,9L x 30,8A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0D98VK8PP?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -6466,7 +6466,7 @@ const PRODUCTS = [
       "Disponível para compra desde": "29 julho 2023"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CD4SCM33?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -6511,7 +6511,7 @@ const PRODUCTS = [
       "Dimensões do produto": "24P x 17,5L x 22A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B076FGHHNG?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -6545,7 +6545,7 @@ const PRODUCTS = [
       "Próprio para lava-louças": "Sim"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CCB3HLGK?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -6590,7 +6590,7 @@ const PRODUCTS = [
       "Componentes Incluídos": "Purificador de água e bandeja para copo"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B08X66RQ48?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -6646,7 +6646,7 @@ const PRODUCTS = [
       "Dimensões do produto": "35,3P x 45L x 26,2A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B097CJVNWS?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -6694,7 +6694,7 @@ const PRODUCTS = [
       "Característica do material": "Seguro para forno, Seguro para micro-ondas, Sem BPA"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B08CPW5BR2?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -6734,7 +6734,7 @@ const PRODUCTS = [
       "Disponível para compra desde": "13 dezembro 2022"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0BPYT6NL2?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -6781,7 +6781,7 @@ const PRODUCTS = [
       "Tipo de Acabamento": "Metálico"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B076HYKFL7?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -6829,7 +6829,7 @@ const PRODUCTS = [
       "Dimensões do produto": "12C x 7L x 17A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GSH6DCCJ?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -6871,7 +6871,7 @@ const PRODUCTS = [
       "Característica Especial": "Leve, À prova de vazamentos"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FR5D4ZYY?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -6913,7 +6913,7 @@ const PRODUCTS = [
       "Característica Especial": "Bocal direcionador da pipoca"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B076BB2NCN?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -6950,7 +6950,7 @@ const PRODUCTS = [
       "Dimensões do produto": "15C x 10L centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CKWDY274?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -6994,7 +6994,7 @@ const PRODUCTS = [
       "Característica Especial": "Desligamento automático"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B076MCNZX6?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -7041,7 +7041,7 @@ const PRODUCTS = [
       "Faixa etária (descrição)": "Adulto"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CYVDJDC1?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -7076,7 +7076,7 @@ const PRODUCTS = [
       "Característica Especial": "Desligamento automático"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0H4ZXQ8QK?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -7116,7 +7116,7 @@ const PRODUCTS = [
       "Dimensões do produto": "22P x 26L x 8A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B09WWY48B7?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -7164,7 +7164,7 @@ const PRODUCTS = [
       "Marca": "ROMANTIC CROWN"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0D9GDTM67?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -7211,7 +7211,7 @@ const PRODUCTS = [
       "Dimensões do produto": "23,3P x 45L x 36,3A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07QN1RW8K?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -7252,7 +7252,7 @@ const PRODUCTS = [
       "Marca": "Electrolux"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0F256PXM8?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -7297,7 +7297,7 @@ const PRODUCTS = [
       "Borda da lâmina": "Plana"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B09XFD2YMF?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -7351,7 +7351,7 @@ const PRODUCTS = [
       "Dimensões do produto": "45,3P x 56,9L x 33,2A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0D3N6ZHT8?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -7404,7 +7404,7 @@ const PRODUCTS = [
       "Dimensões do produto": "36,3P x 25,2L x 28,2A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0B72QZXCC?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -7455,7 +7455,7 @@ const PRODUCTS = [
       "Dimensões do produto": "43,2P x 50L x 32,5A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0921RTR6Y?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -7497,7 +7497,7 @@ const PRODUCTS = [
       "Dimensões do produto": "23,5P x 23,5L x 8,5A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B076FGX8GR?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -7539,7 +7539,7 @@ const PRODUCTS = [
       "Característica Especial": "Desligamento automático"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B09CBXQFYY?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -7577,7 +7577,7 @@ const PRODUCTS = [
       "Forma": "Cone"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B078XNNYG6?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": true
   },
   {
@@ -7616,7 +7616,7 @@ const PRODUCTS = [
       "Número de itens": "1"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0BLP86QT3?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -7654,7 +7654,7 @@ const PRODUCTS = [
       "Dimensões do produto": "12C x 15L centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B076JLCYFR?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -7702,7 +7702,7 @@ const PRODUCTS = [
       "Característica Especial": "Tigela removível"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0C4CF2F67?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -7742,7 +7742,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Uso doméstico"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0C7DLXV6Q?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -7792,7 +7792,7 @@ const PRODUCTS = [
       "Característica Especial": "Preparo de xícara única"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B08S1ZS6R1?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -7830,7 +7830,7 @@ const PRODUCTS = [
       "Forma": "Cone"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B001U7EOYA?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -7885,7 +7885,7 @@ const PRODUCTS = [
       "Dimensões do produto": "22,3P x 28,6L x 36,5A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B08TLH52PQ?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -7931,7 +7931,7 @@ const PRODUCTS = [
       "Próprio para lava-louças": "Sim"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CZMK9X9B?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -7976,7 +7976,7 @@ const PRODUCTS = [
       "Número de itens": "1"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07BB8NL42?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -8026,7 +8026,7 @@ const PRODUCTS = [
       "Dimensões do produto": "18P x 20L x 38A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B08J8GKC5R?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -8066,7 +8066,7 @@ const PRODUCTS = [
       "Característica Especial": "Bocal direcionador"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07G1HWM9D?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -8124,7 +8124,7 @@ const PRODUCTS = [
       "Característica Especial": "Parede Dupla Isolante"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0H5TGYNPL?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -8164,7 +8164,7 @@ const PRODUCTS = [
       "Dimensões do produto": "25,5P x 28,5L x 36,7A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DGWHX6JH?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -8204,7 +8204,7 @@ const PRODUCTS = [
       "Descontinuado pelo fabricante": "Não"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B08Y5LKM6W?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -8248,7 +8248,7 @@ const PRODUCTS = [
       "Fonte de alimentação": "Elétrico com fio"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07QCVJHN5?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -8290,7 +8290,7 @@ const PRODUCTS = [
       "Dimensões do produto": "32C x 53L x 64A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0G5YRSFP1?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -8327,7 +8327,7 @@ const PRODUCTS = [
       "Característica Especial": "Antiaderente"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B09W4CSX53?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -8366,7 +8366,7 @@ const PRODUCTS = [
       "Dimensões do produto": "23,5P x 23,5L x 10A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CJ3R1537?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -8407,7 +8407,7 @@ const PRODUCTS = [
       "Dimensões do produto": "20,7C x 4,2L centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B085M4Z3N4?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -8457,7 +8457,7 @@ const PRODUCTS = [
       "Dimensões do produto": "5,5P x 5L x 38A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B08YHR9C4S?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -8500,7 +8500,7 @@ const PRODUCTS = [
       "Tipo de Acabamento": "Brilhante"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B08YFLVSBP?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -8547,7 +8547,7 @@ const PRODUCTS = [
       "Tipo de Garrafa": "Garrafa Squeeze com Alça"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0G1PCXPNC?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -8594,7 +8594,7 @@ const PRODUCTS = [
       "Faixa etária (descrição)": "Adultos"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0H1J7P7RL?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -8647,7 +8647,7 @@ const PRODUCTS = [
       "Dimensões do produto": "34,7P x 39L x 42,8A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0B726S9S3?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -8709,7 +8709,7 @@ const PRODUCTS = [
       "Dimensões do produto": "53P x 49L x 120A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CG8J3N2H?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -8756,7 +8756,7 @@ const PRODUCTS = [
       "Modelos de Telefone Compatíveis": "Notebook"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B086CB6BXW?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -8789,7 +8789,7 @@ const PRODUCTS = [
       "Característica Especial": "Portátil e moderno"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B09963FWYX?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -8877,7 +8877,7 @@ const PRODUCTS = [
       "Material da moldura": "Metal"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GYQF5DPD?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -8936,7 +8936,7 @@ const PRODUCTS = [
       "Dimensões do produto": "19C x 760L x 220Espessura milímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B075XMH39C?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -8973,7 +8973,7 @@ const PRODUCTS = [
       "Peso do produto": "7,1 Quilogramas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FXH6Y9G8?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -9015,7 +9015,7 @@ const PRODUCTS = [
       "Tipo de Montagem": "Sobre a mesa"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0F1C2GCK4?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -9088,7 +9088,7 @@ const PRODUCTS = [
       "Característica Especial": "MDP"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B089Y3S71L?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -9152,7 +9152,7 @@ const PRODUCTS = [
       "Dimensões do produto": "77P x 25L x 59A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CJV2WKQF?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -9191,7 +9191,7 @@ const PRODUCTS = [
       "Característica Especial": "Ajustável e Dobrável"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FF4KZ1ZZ?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -9241,7 +9241,7 @@ const PRODUCTS = [
       "Característica Especial": "Não é necessário Box Spring, Espaço de Armazenamento e Montagem Fácil"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FZ98XMN9?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -9291,7 +9291,7 @@ const PRODUCTS = [
       "Marca": "VONDER"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B078HFQHKX?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -9331,7 +9331,7 @@ const PRODUCTS = [
       "Característica Especial": "Articulada, Compatível Com Home Office, Dobrável, Portátil, Suporte Para Tablet"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FNNHKML3?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -9397,7 +9397,7 @@ const PRODUCTS = [
       "Peso do produto": "15 Quilogramas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CSD46QVZ?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -9473,7 +9473,7 @@ const PRODUCTS = [
       "Dimensões do produto": "51P x 51L x 90,5A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0BXV6YGZQ?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -9518,7 +9518,7 @@ const PRODUCTS = [
       "Característica Especial": "Dobrável"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0C5N6ST9L?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -9581,7 +9581,7 @@ const PRODUCTS = [
       "Dimensões do produto": "53P x 54L x 72A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B075XM6DKH?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -9643,7 +9643,7 @@ const PRODUCTS = [
       "Dimensões do produto": "47P x 50L x 100A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0BCXBC2W4?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -9693,7 +9693,7 @@ const PRODUCTS = [
       "Característica Especial": "Empilhável"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0788PY5PP?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -9731,7 +9731,7 @@ const PRODUCTS = [
       "Marca": "Genérico"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0H2RLZN4M?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -9785,7 +9785,7 @@ const PRODUCTS = [
       "Dimensões do produto": "53P x 72,5L x 54,5A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0F8P7V1VB?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -9844,7 +9844,7 @@ const PRODUCTS = [
       "Limite de peso": "260 Quilogramas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0B8ZF9DR3?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -9878,7 +9878,7 @@ const PRODUCTS = [
       "Disponível para compra desde": "20 abril 2026"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GXX1CNPX?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -9928,7 +9928,7 @@ const PRODUCTS = [
       "Característica Especial": "Transparente, Ergonomico"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07C844DL9?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -9979,7 +9979,7 @@ const PRODUCTS = [
       "Limite de peso": "260 Quilogramas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B081NL17WS?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": true
   },
   {
@@ -10019,7 +10019,7 @@ const PRODUCTS = [
       "Dimensões do produto": "38P x 33L x 56A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B076X7T36F?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -10094,7 +10094,7 @@ const PRODUCTS = [
       "Dimensões do produto": "56P x 65L x 120A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GYQBPDG6?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -10136,7 +10136,7 @@ const PRODUCTS = [
       "Marca": "A S AMAZING SHOP"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CTFT35CJ?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -10199,7 +10199,7 @@ const PRODUCTS = [
       "Dimensões do produto": "60P x 60L x 30A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DJ9XGMTQ?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -10236,7 +10236,7 @@ const PRODUCTS = [
       "Tipo de Acabamento": "Polipropileno (PP), Bambu"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0D1S8ZFHT?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -10281,7 +10281,7 @@ const PRODUCTS = [
       "Característica Especial": "Dobrável, Pés antiderrapantes"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0B5S9HH3X?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -10343,7 +10343,7 @@ const PRODUCTS = [
       "Dimensões do produto": "36P x 86L x 75A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07J6BXSNN?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -10376,7 +10376,7 @@ const PRODUCTS = [
       "Número de itens": "1"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GWFL1L5Z?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -10411,7 +10411,7 @@ const PRODUCTS = [
       "Característica Especial": "Ultra-fino, Antiderrapante, Veludo"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B09XNCLQBW?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -10447,7 +10447,7 @@ const PRODUCTS = [
       "Método de refrigeração": "Ar"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0F9B4TQVP?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -10505,7 +10505,7 @@ const PRODUCTS = [
       "Dimensões do produto": "50P x 115L x 45A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CYZGCJYC?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -10543,7 +10543,7 @@ const PRODUCTS = [
       "Tipo de Montagem": "Sobre a mesa"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0H3788T72?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -10589,7 +10589,7 @@ const PRODUCTS = [
       "Marca": "NO2PROBLEMS"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0BBVCPCYP?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -10648,7 +10648,7 @@ const PRODUCTS = [
       "Dimensões do produto": "50P x 66L x 95A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0D1QWJYV9?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -10689,7 +10689,7 @@ const PRODUCTS = [
       "Peso do produto": "240 Gramas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07VMNQC4P?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -10744,7 +10744,7 @@ const PRODUCTS = [
       "Dimensões do produto": "60P x 48L x 130A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FYMRR5YK?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -10780,7 +10780,7 @@ const PRODUCTS = [
       "Componentes Incluídos": "Porta Sabonete Líquido"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FXT573B1?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -10821,7 +10821,7 @@ const PRODUCTS = [
       "Nível de Resistência à Água": "Resistente à água"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07DKNT84M?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -10870,7 +10870,7 @@ const PRODUCTS = [
       "Característica Especial": "Pesado"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CMJ9PYB9?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -10910,7 +10910,7 @@ const PRODUCTS = [
       "Peso do produto": "27,6 Quilogramas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0D1H85DGL?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -10962,7 +10962,7 @@ const PRODUCTS = [
       "Dimensões do produto": "32P x 52L x 170A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CMJCQGGN?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -11027,7 +11027,7 @@ const PRODUCTS = [
       "Tipo de Acabamento": "Pintada"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B076X58FPZ?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -11097,7 +11097,7 @@ const PRODUCTS = [
       "Dimensões do produto": "70P x 66L x 128A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07XM8KGBB?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -11156,7 +11156,7 @@ const PRODUCTS = [
       "Limite de peso": "260 Quilogramas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B08YKBXTX6?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -11204,7 +11204,7 @@ const PRODUCTS = [
       "Marca": "Buba"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B08JGF668H?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -11272,7 +11272,7 @@ const PRODUCTS = [
       "Característica Especial": "Prateleira"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FWVJ7YRY?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -11312,7 +11312,7 @@ const PRODUCTS = [
       "Tipo de Montagem": "Sobre a mesa"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FN6DFPFJ?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -11390,7 +11390,7 @@ const PRODUCTS = [
       "Dimensões do produto": "50P x 60L x 126A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FKPKCS47?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -11435,7 +11435,7 @@ const PRODUCTS = [
       "Marca": "Brinqlar"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FPSDGJQ4?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -11508,7 +11508,7 @@ const PRODUCTS = [
       "Característica Especial": "MDP"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B089Y7F6GR?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -11586,7 +11586,7 @@ const PRODUCTS = [
       "Característica Especial": "MDP"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B089Y4SNJZ?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -11624,7 +11624,7 @@ const PRODUCTS = [
       "Característica Especial": "Desmontável, Organizador"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DSCC344G?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -11706,7 +11706,7 @@ const PRODUCTS = [
       "Tipo": "Padrão"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0D1LJTBWL?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -11744,7 +11744,7 @@ const PRODUCTS = [
       "Característica Especial": "Dobrável, Leve"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FPGGHJMZ?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -11787,7 +11787,7 @@ const PRODUCTS = [
       "Característica Especial": "Altura ajustável"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DGRF5SV8?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -11856,7 +11856,7 @@ const PRODUCTS = [
       "Velocidade do CPU": "2,2 GHz"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FPJ52LSR?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -11923,7 +11923,7 @@ const PRODUCTS = [
       "Tamanho da Tela": "6,7 Polegadas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GVSVS9WH?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -12004,7 +12004,7 @@ const PRODUCTS = [
       "Velocidade do CPU": "2 GHz"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FR5NSCF7?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -12030,7 +12030,7 @@ const PRODUCTS = [
       "Nome do Modelo": "iPhone 16e"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DXR7GNWJ?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -12093,7 +12093,7 @@ const PRODUCTS = [
       "Velocidade do CPU": "3,4 GHz"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GN2L3DZZ?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -12154,7 +12154,7 @@ const PRODUCTS = [
       "Velocidade do CPU": "2 GHz"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FCYP5FB2?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -12216,7 +12216,7 @@ const PRODUCTS = [
       "Velocidade do CPU": "3,4 GHz"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GN1N5C7M?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -12275,7 +12275,7 @@ const PRODUCTS = [
       "Tamanho da Tela": "6,7 Polegadas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FPHYC9FQ?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -12346,7 +12346,7 @@ const PRODUCTS = [
       "Velocidade do CPU": "3,4 GHz"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DSYJCY45?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -12418,7 +12418,7 @@ const PRODUCTS = [
       "Velocidade do CPU": "2,2 GHz"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DHWFBYVC?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -12488,7 +12488,7 @@ const PRODUCTS = [
       "Velocidade do CPU": "2 GHz"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DQQCGG3Q?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -12553,7 +12553,7 @@ const PRODUCTS = [
       "Velocidade do CPU": "5,3 GHz"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GKQTCXL8?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -12613,7 +12613,7 @@ const PRODUCTS = [
       "Velocidade do CPU": "2,5 GHz"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0F1H78X95?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -12678,7 +12678,7 @@ const PRODUCTS = [
       "Velocidade do CPU": "4,1 GHz"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DSY665M3?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -12737,7 +12737,7 @@ const PRODUCTS = [
       "Capacidade de Armazenamento de Memória": "512 GB"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GMY41LM8?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -12763,7 +12763,7 @@ const PRODUCTS = [
       "Operadora de celulares e tecnologia sem fio": "Todas as Operadoras"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FQJ2KJ9X?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -12789,7 +12789,7 @@ const PRODUCTS = [
       "Tamanho da Tela": "6,1 Polegadas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GTRWMZWZ?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -12859,7 +12859,7 @@ const PRODUCTS = [
       "Velocidade do CPU": "3,4 GHz"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DYVPCX34?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -12910,7 +12910,7 @@ const PRODUCTS = [
       "Velocidade do CPU": "2 GHz"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FZDVS62S?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -12962,7 +12962,7 @@ const PRODUCTS = [
       "Dispositivos Compatíveis": "Impressora"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B08WKPK952?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -13023,7 +13023,7 @@ const PRODUCTS = [
       "Tecnologia de detecção de movimento": "Óptico"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B074L9L5KZ?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -13081,7 +13081,7 @@ const PRODUCTS = [
       "Tamanho": "Grande"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0F2N7L7HQ?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -13125,7 +13125,7 @@ const PRODUCTS = [
       "Marca": "ELG"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0765KZ264?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -13176,7 +13176,7 @@ const PRODUCTS = [
       "Dispositivos Compatíveis": "Impressora"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B074HMBWQG?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -13239,7 +13239,7 @@ const PRODUCTS = [
       "Fator de forma dos fones de ouvido": "Extra-auriculares"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CHJXCJTW?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -13297,7 +13297,7 @@ const PRODUCTS = [
       "Tipo de Instalação": "Disco rígido externo"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0BQX6NNVC?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -13338,7 +13338,7 @@ const PRODUCTS = [
       "Descrição do Teclado": "Multimídia"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0BPTK4P38?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -13391,7 +13391,7 @@ const PRODUCTS = [
       "Característica Especial": "Alta velocidade, Carregamento rápido, Proteção contra curto-circuito, Sem emaranhado, Trançado"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0F5XBMGB5?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -13442,7 +13442,7 @@ const PRODUCTS = [
       "Soquete da CPU": "Socket AM4"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B09VCJ171S?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -13485,7 +13485,7 @@ const PRODUCTS = [
       "Tecnologia de detecção de movimento": "Óptico"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0F1G2TL8P?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -13568,7 +13568,7 @@ const PRODUCTS = [
       "Resolução máxima do visor": "2112 x 1320 (WUXGA+) Pixels"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FMFRFNWG?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -13626,7 +13626,7 @@ const PRODUCTS = [
       "Tecnologia de detecção de movimento": "Óptico"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CJ3BDN7T?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -13671,7 +13671,7 @@ const PRODUCTS = [
       "Característica Especial": "Alta velocidade"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0BGJR1R3B?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -13709,7 +13709,7 @@ const PRODUCTS = [
       "Peso do produto": "150 Gramas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07K2F1B2S?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -13764,7 +13764,7 @@ const PRODUCTS = [
       "Dispositivos Compatíveis": "Impressora"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B09JKXGSLG?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -13811,7 +13811,7 @@ const PRODUCTS = [
       "Característica Especial": "Carregamento rápido"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DT5383HM?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -13873,7 +13873,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Uso diário"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CJ3WFW9H?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -13924,7 +13924,7 @@ const PRODUCTS = [
       "Dispositivos Compatíveis": "Impressora"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DF8VTNHM?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -13970,7 +13970,7 @@ const PRODUCTS = [
       "Classe de banda de frequência": "Dual-Band"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B00A0VCJPI?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -14030,7 +14030,7 @@ const PRODUCTS = [
       "Padrão de comunicação sem fio": "802.11ac"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DH3PLZ6N?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -14083,7 +14083,7 @@ const PRODUCTS = [
       "Marca": "PlusCable"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07SR1F7LS?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -14134,7 +14134,7 @@ const PRODUCTS = [
       "Dispositivos Compatíveis": "Computador pessoal, Notebook, Tablet"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FLFWP47Z?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -14177,7 +14177,7 @@ const PRODUCTS = [
       "Característica Especial": "Carregamento rápido"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CX22JSR3?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -14222,7 +14222,7 @@ const PRODUCTS = [
       "Marca": "MD9"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B076HQVSXZ?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -14264,7 +14264,7 @@ const PRODUCTS = [
       "Dimensões do produto": "15C x 7L x 19A milímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B098K3H92Z?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -14320,7 +14320,7 @@ const PRODUCTS = [
       "Peso do produto": "3,42 Quilogramas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0G491Z8QR?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -14406,7 +14406,7 @@ const PRODUCTS = [
       "Descrição da Placa de Vídeo": "Integrado"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0F7RVV292?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -14448,7 +14448,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Escritório"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B01N35N6ZC?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -14503,7 +14503,7 @@ const PRODUCTS = [
       "Marca": "Anker"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DBTV5QF5?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -14549,7 +14549,7 @@ const PRODUCTS = [
       "Dimensões do produto": "12C x 9L centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DXDCCZBY?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -14620,7 +14620,7 @@ const PRODUCTS = [
       "Peso do produto": "3,9 Quilogramas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DTTM47F9?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -14683,7 +14683,7 @@ const PRODUCTS = [
       "Instruções de cuidados com o produto": "Apenas lavagem à mão"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0842XB4BN?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -14738,7 +14738,7 @@ const PRODUCTS = [
       "Tecnologia de detecção de movimento": "Óptico"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B086J78G67?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -14797,7 +14797,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Escritório"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B075VFWDD4?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -14846,7 +14846,7 @@ const PRODUCTS = [
       "Velocidade de Gravação": "3.0"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0754M9KZT?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -14893,7 +14893,7 @@ const PRODUCTS = [
       "Fator de forma dos fones de ouvido": "Circumaurais"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0F1C3MRMF?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -15013,7 +15013,7 @@ const PRODUCTS = [
       "Descrição da Placa de Vídeo": "Integrado"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FHCHBRGF?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -15055,7 +15055,7 @@ const PRODUCTS = [
       "Marca": "Genérico"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GVQ5ZY7D?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -15107,7 +15107,7 @@ const PRODUCTS = [
       "Descrição da Superfície da Tela": "Fosco"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FLKL7DHZ?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -15168,7 +15168,7 @@ const PRODUCTS = [
       "Descrição da Superfície da Tela": "Brilhante"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0G3144L7C?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -15226,7 +15226,7 @@ const PRODUCTS = [
       "Característica Especial": "Carregamento rápido"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07T99CGDF?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -15283,7 +15283,7 @@ const PRODUCTS = [
       "Tecnologia de detecção de movimento": "Óptico"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B087CT8PWY?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -15327,7 +15327,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Jogo"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0152HPXXE?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -15383,7 +15383,7 @@ const PRODUCTS = [
       "Tamanho da Alça": "Média"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DHBJ7KPF?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -15419,7 +15419,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Escritório, Jogo"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FVPG6XR9?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -15461,7 +15461,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Escritório, Estudos, Jogo"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0BLXHT5Q9?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -15506,7 +15506,7 @@ const PRODUCTS = [
       "Disponível para compra desde": "28 dezembro 2017"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B078NVW1XT?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -15564,7 +15564,7 @@ const PRODUCTS = [
       "Tamanho": "43 x 24 x 2 cm"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FPDN248Q?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -15619,7 +15619,7 @@ const PRODUCTS = [
       "Fator de forma dos fones de ouvido": "Extra-auriculares"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0D6NLHV8N?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -15672,7 +15672,7 @@ const PRODUCTS = [
       "Dispositivos Compatíveis": "Smartphones Android com por USB-C"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B08HM6TLXM?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -15734,7 +15734,7 @@ const PRODUCTS = [
       "Tecnologia de detecção de movimento": "Óptico"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B09J1TB35S?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -15798,7 +15798,7 @@ const PRODUCTS = [
       "Peso do produto": "4,94 Quilogramas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B00DZIOMJ4?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -15846,7 +15846,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "[POSSIBLE_USES]"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0779BRVVS?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -15894,7 +15894,7 @@ const PRODUCTS = [
       "Ambiente interno/externo": "Área interna"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07574RT3C?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -15936,7 +15936,7 @@ const PRODUCTS = [
       "Dimensões do produto": "37P x 26,5L x 38A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CH3WBKN6?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -15990,7 +15990,7 @@ const PRODUCTS = [
       "Tensão": "110 Volts, 220 Volts"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B09V1SM8QB?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -16031,7 +16031,7 @@ const PRODUCTS = [
       "Nível de Resistência à Água": "Não resistente à água"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B076N2S8FV?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -16072,7 +16072,7 @@ const PRODUCTS = [
       "Peso do produto": "200 Gramas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07CV2JXNH?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -16119,7 +16119,7 @@ const PRODUCTS = [
       "Tensão": "120 Volts"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07JN19LDF?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -16178,7 +16178,7 @@ const PRODUCTS = [
       "Fonte de alimentação": "Energia elétrica"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B076BB1XPG?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -16223,7 +16223,7 @@ const PRODUCTS = [
       "Tipo de Acabamento": "Cromada"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B084L1CTXL?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -16269,7 +16269,7 @@ const PRODUCTS = [
       "Tipo de material": "borracha nitrílica"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0F61QC5SR?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -16307,7 +16307,7 @@ const PRODUCTS = [
       "Característica Especial": "Portátil, Digital, Luz LED, Desligamento automático, Detecção de pressão"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FP9FF295?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -16347,7 +16347,7 @@ const PRODUCTS = [
       "Característica Especial": "Dobrável"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0776VVM73?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -16383,7 +16383,7 @@ const PRODUCTS = [
       "Estilo da cabeça": "Pacote de Variedades"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B092SPZFYT?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -16426,7 +16426,7 @@ const PRODUCTS = [
       "Característica Especial": "Secagem rápida, Resistente ao calor, Resistente à umidade, Resistente a impactos"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07SYBNBNF?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -16469,7 +16469,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Embalagem, Presente"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B077P84NBQ?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -16506,7 +16506,7 @@ const PRODUCTS = [
       "Formato do Plugue": "Tipo N"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FW81NYQ9?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -16566,7 +16566,7 @@ const PRODUCTS = [
       "Característica Especial": "Visão noturna"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0B8GNV5LS?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -16633,7 +16633,7 @@ const PRODUCTS = [
       "Característica Especial": "Portátil, Resolução HD, Sensor de imagem, Sensor de movimento"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B09Q3JVDYS?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -16676,7 +16676,7 @@ const PRODUCTS = [
       "Tipo de Montagem": "Montagem em trilho DIN"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0B2K3CVBN?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -16716,7 +16716,7 @@ const PRODUCTS = [
       "Tipo de gume da ferramenta": "Espiral"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07CTN7X2Y?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -16752,7 +16752,7 @@ const PRODUCTS = [
       "Dimensões do produto": "8C x 29L x 26A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0H5T7JHF4?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -16811,7 +16811,7 @@ const PRODUCTS = [
       "Característica Especial": "À prova d'água"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B08Y55DZXT?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -16861,7 +16861,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "water_resistant"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0794JC71P?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -16910,7 +16910,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "plástico, vidro"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B076BJ82Z6?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -16956,7 +16956,7 @@ const PRODUCTS = [
       "Ambiente interno/externo": "Área externa, Área interna"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DY3214JL?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -16997,7 +16997,7 @@ const PRODUCTS = [
       "Tensão de Saída": "250 Volts"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0777S9WRF?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -17038,7 +17038,7 @@ const PRODUCTS = [
       "Dimensões do produto": "11L x 11A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B089KV37SZ?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -17113,7 +17113,7 @@ const PRODUCTS = [
       "Tecnologia de Conectividade": "Sem fio"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07XLML2YS?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -17151,7 +17151,7 @@ const PRODUCTS = [
       "Disponível para compra desde": "2 novembro 2025"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FZ6TLKS3?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -17195,7 +17195,7 @@ const PRODUCTS = [
       "Número de itens": "1"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07GH8YBGB?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -17244,7 +17244,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Parede"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B078YDP9JM?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -17291,7 +17291,7 @@ const PRODUCTS = [
       "Característica Especial": "Proteção de sobretensão"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0779K66MG?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -17333,7 +17333,7 @@ const PRODUCTS = [
       "Tensão": "250 Volts"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B078FGJ8XN?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -17373,7 +17373,7 @@ const PRODUCTS = [
       "Número de itens": "1"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07CTN73L1?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -17419,7 +17419,7 @@ const PRODUCTS = [
       "Característica Especial": "Cura em presença de umidade e antifungo"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B076KR1Q3T?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -17458,7 +17458,7 @@ const PRODUCTS = [
       "Comprimento do produto": "2 Centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07QXL7VZL?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -17505,7 +17505,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Embalagem"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0971DYR7N?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -17540,7 +17540,7 @@ const PRODUCTS = [
       "Marca": "VONDER"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B076ZRKZK1?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -17581,7 +17581,7 @@ const PRODUCTS = [
       "Disponível para compra desde": "22 abril 2018"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07CLH9Y6X?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -17623,7 +17623,7 @@ const PRODUCTS = [
       "Disponível para compra desde": "2 outubro 2020"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B08KJN19FM?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -17678,7 +17678,7 @@ const PRODUCTS = [
       "Característica Especial": "Antialérgica"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B08MNFRVS7?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -17715,7 +17715,7 @@ const PRODUCTS = [
       "Usos Específicos do Produto": "Agarração, Montagem e Reparação"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0778YTF29?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -17761,7 +17761,7 @@ const PRODUCTS = [
       "Característica Especial": "Alta resistência adesiva e Excelente flexibilidade"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B077QFH5WP?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -17803,7 +17803,7 @@ const PRODUCTS = [
       "Material da Alça": "Plástico"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B076KP7X7F?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -17842,7 +17842,7 @@ const PRODUCTS = [
       "Nível de Resistência à Água": "Não resistente à água"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B076YK72YJ?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -17872,7 +17872,7 @@ const PRODUCTS = [
       "Marca": "Genérico"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GWFFY9MS?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -17913,7 +17913,7 @@ const PRODUCTS = [
       "Forma do produto": "Líquido"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B082WYPGVC?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -17958,7 +17958,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Elétrico"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B077VTMHXQ?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -18000,7 +18000,7 @@ const PRODUCTS = [
       "Tensão": "110 Volts, 220 Volts"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GWY89VFX?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -18046,7 +18046,7 @@ const PRODUCTS = [
       "Nível de Ruído": "70 Decibéis"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DXRY7HDS?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": true
   },
   {
@@ -18093,7 +18093,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "plástico, metal, placa_de_reboco"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0794668F7?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -18127,7 +18127,7 @@ const PRODUCTS = [
       "Disponível para compra desde": "8 abril 2026"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GWJBSF8X?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -18159,7 +18159,7 @@ const PRODUCTS = [
       "Tipo de empunhadura": "Ergonômico"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B08LP3JV5J?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -18203,7 +18203,7 @@ const PRODUCTS = [
       "Forma": "Quadrado"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07DCWV2TQ?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -18245,7 +18245,7 @@ const PRODUCTS = [
       "Dimensões do item C x L x A": "8,5 x 26 x 20,5 centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B08MV1F8VV?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -18281,7 +18281,7 @@ const PRODUCTS = [
       "Peso do produto": "80 Gramas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B089DJVFCP?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -18319,7 +18319,7 @@ const PRODUCTS = [
       "Fonte de alimentação": "Elétrico com fio"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B09QRQQY4S?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -18364,7 +18364,7 @@ const PRODUCTS = [
       "Forma do produto": "Líquido"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07KJFV6C2?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -18405,7 +18405,7 @@ const PRODUCTS = [
       "Número de itens": "1"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07MLQ34YP?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -18443,7 +18443,7 @@ const PRODUCTS = [
       "Número de itens": "1"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FLDF8C1P?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -18486,7 +18486,7 @@ const PRODUCTS = [
       "Dimensões do produto": "33,5P x 28L x 29,5A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07L8SJLXN?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -18522,7 +18522,7 @@ const PRODUCTS = [
       "Número de itens": "1"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07ND7SGST?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -18566,7 +18566,7 @@ const PRODUCTS = [
       "Tipo de material livre": "Sem cloro"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07VTNFDHM?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -18618,7 +18618,7 @@ const PRODUCTS = [
       "Vantagens do produto": "Reparação e fortalecimento dos fios"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0713TJNJ5?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -18671,7 +18671,7 @@ const PRODUCTS = [
       "Dimensões do produto": "30P x 90L x 29A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DM6VH5KF?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -18710,7 +18710,7 @@ const PRODUCTS = [
       "Volume líquido": "1 Onças líquidas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0918FHY6P?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -18747,7 +18747,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Interior"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FTNWV5F9?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -18783,7 +18783,7 @@ const PRODUCTS = [
       "Característica Especial": "Bloqueio do suor, Proteção durante todo o dia"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0G1PVKXCW?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -18829,7 +18829,7 @@ const PRODUCTS = [
       "Dimensões do produto": "25P x 33L x 36,5A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GNCJSWF5?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -18877,7 +18877,7 @@ const PRODUCTS = [
       "Firmeza do produto": "Ultra macia"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0F7J2KKFW?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -18936,7 +18936,7 @@ const PRODUCTS = [
       "Processadores Compatíveis": "Ryzen Series"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B08BN8VD23?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -18972,7 +18972,7 @@ const PRODUCTS = [
       "Fator de Forma": "Independente"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FTR1FWDK?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -19012,7 +19012,7 @@ const PRODUCTS = [
       "Característica Especial": "Cuidado com lã, Inverter"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0B61WJRY5?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -19077,7 +19077,7 @@ const PRODUCTS = [
       "Serviços de Internet compatíveis": "Disney Plus, Hulu Plus, Netflix, Prime Video, YouTube"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FKD1SFPC?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -19097,7 +19097,7 @@ const PRODUCTS = [
     "description": "<ul><li>ROSA AMARELO E AZUL COM FLUTAS MAMAO, BANANA E ABACAXI</li></ul>",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0DKVJ1HWB?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -19152,7 +19152,7 @@ const PRODUCTS = [
       "Dimensões do produto": "1,89P x 8,37L x 3,07A Metros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GPSGMTDJ?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -19208,7 +19208,7 @@ const PRODUCTS = [
       "Fonte de alimentação": "Energia elétrica"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07JFTS6BS?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -19228,7 +19228,7 @@ const PRODUCTS = [
     "description": "<ul><li>Tela 4k</li><li>Cameras coloridas</li><li>Console portátil</li></ul>",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0CD1JTBSC?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -19268,7 +19268,7 @@ const PRODUCTS = [
       "Faixa etária (descrição)": "Adulto"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B08ZFKB8ZK?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -19317,7 +19317,7 @@ const PRODUCTS = [
       "Local de acesso": "Carga frontal"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0D9YQNT3Y?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -19357,7 +19357,7 @@ const PRODUCTS = [
       "Tipo de Cabelo": "Cacheado, Danificado, Normal, Opaco, Todos"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GHP4NL1J?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -19409,7 +19409,7 @@ const PRODUCTS = [
       "Característica Especial": "Homeopático"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B072MTS8VQ?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -19450,7 +19450,7 @@ const PRODUCTS = [
       "Faixa etária (descrição)": "Criança"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B08WLM2682?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -19490,7 +19490,7 @@ const PRODUCTS = [
       "Característica Especial": "Tecnologia iónica"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0H1147GWR?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -19534,7 +19534,7 @@ const PRODUCTS = [
       "Tipo de Cabelo": "Todos"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B09GSR58JF?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -19627,7 +19627,7 @@ const PRODUCTS = [
       "Dimensões do produto": "8,8P x 122,6L x 71,5A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FPBQQ4TN?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -19679,7 +19679,7 @@ const PRODUCTS = [
       "Ajuste ao Tamanho": "adequado"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GHS7QRB5?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -19727,7 +19727,7 @@ const PRODUCTS = [
       "Característica Especial": "Hipoalergênico, Não testado em animais, Orgânico"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B08G9M18H5?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -19778,7 +19778,7 @@ const PRODUCTS = [
       "Usos Específicos do Produto": "Saúde digestiva"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07Y8LZR6V?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -19823,7 +19823,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Brinquedos, Controle de videogame, Controle remoto"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0C9RVFRZD?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -19859,7 +19859,7 @@ const PRODUCTS = [
       "Volume líquido": "500 Mililitros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CJLDWS2J?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -19907,7 +19907,7 @@ const PRODUCTS = [
       "Dimensões do produto": "12C x 7L x 17A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GSH6DCCJ?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -19949,7 +19949,7 @@ const PRODUCTS = [
       "Número de itens": "91"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07Y3B33KG?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -20026,7 +20026,7 @@ const PRODUCTS = [
       "Resolução máxima do visor": "1920 Pixels"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0H4VFZYNG?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -20077,7 +20077,7 @@ const PRODUCTS = [
       "Firmeza do produto": "Extra macia"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B08PFT7QV4?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -20130,7 +20130,7 @@ const PRODUCTS = [
       "Ambiente interno/externo": "Área interna"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B076CF5DFL?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -20174,7 +20174,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Brinquedos, Controle de videogame, Controle remoto"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0C9R8RC1P?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -20221,7 +20221,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Aparelho auditivo, Controle remoto da TV, Câmera, Drone, Relógio"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07X4JG2G4?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -20274,7 +20274,7 @@ const PRODUCTS = [
       "Característica Especial": "2 Tipos de Ácido Hialurônico, FPS50, Multifuncional"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0BVSTCXZY?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -20325,7 +20325,7 @@ const PRODUCTS = [
       "Vantagens do produto": "Intensificação da cor"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B077BY915Y?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -20371,7 +20371,7 @@ const PRODUCTS = [
       "Esporte": "Golfe"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B00R0Z7TFM?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -20414,7 +20414,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Interior"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FDS8R6DW?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -20462,7 +20462,7 @@ const PRODUCTS = [
       "Tipo de Cabelo": "Danificado"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0D7NZ3N7P?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -20501,7 +20501,7 @@ const PRODUCTS = [
       "Peso do produto": "942 Gramas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0F497Y3VF?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -20538,7 +20538,7 @@ const PRODUCTS = [
       "Tipo de Cafeteira": "Máquina de café expresso"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0C6C8GRFC?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -20583,7 +20583,7 @@ const PRODUCTS = [
       "Tipo de material livre": "Sem cloro"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07PNK7JSN?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -20637,7 +20637,7 @@ const PRODUCTS = [
       "Padrão de comunicação sem fio": "Bluetooth"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FQJZVD2S?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -20684,7 +20684,7 @@ const PRODUCTS = [
       "Descrição da bateria": "Não aplicável"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GFD8M69W?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -20722,7 +20722,7 @@ const PRODUCTS = [
       "Tipo de Cabelo": "Ondulado, Cacheado, Crespo"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B09X9KDZBB?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -20761,7 +20761,7 @@ const PRODUCTS = [
       "Volume líquido": "60 Mililitros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0BNLXDQL9?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -20802,7 +20802,7 @@ const PRODUCTS = [
       "Faixa etária (descrição)": "Adulto"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B09GSRYL69?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -20857,7 +20857,7 @@ const PRODUCTS = [
       "Capacidade de Armazenamento de Memória": "12 GB"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FHS18Q1N?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -20921,7 +20921,7 @@ const PRODUCTS = [
       "Capacidade de Armazenamento de Memória": "256 GB"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GN23K43X?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": true
   },
   {
@@ -20984,7 +20984,7 @@ const PRODUCTS = [
       "Capacidade de Armazenamento de Memória": "8 GB"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0H1NS1XQD?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -21039,7 +21039,7 @@ const PRODUCTS = [
       "Tamanho da Tela": "6,8 Polegadas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GZLT5PX9?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -21092,7 +21092,7 @@ const PRODUCTS = [
       "Capacidade de Armazenamento de Memória": "8 GB"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0H2WXYRQ5?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -21151,7 +21151,7 @@ const PRODUCTS = [
       "Velocidade do CPU": "5,6 GHz"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GZLL5D74?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -21197,7 +21197,7 @@ const PRODUCTS = [
       "Marca": "XIAOMI"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0G2BHH8SR?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -21247,7 +21247,7 @@ const PRODUCTS = [
       "Tamanho instalado da memória RAM": "16 GB"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GZQTLQ9S?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -21296,7 +21296,7 @@ const PRODUCTS = [
       "Tamanho instalado da memória RAM": "8 GB"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0H2WRYZYJ?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -21348,7 +21348,7 @@ const PRODUCTS = [
       "Tamanho da Tela": "6,7 Polegadas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0H1YB1WCT?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -21387,7 +21387,7 @@ const PRODUCTS = [
       "Operadora de celulares e tecnologia sem fio": "Todas as Operadoras"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0H2N4QTVC?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -21434,7 +21434,7 @@ const PRODUCTS = [
       "Tamanho instalado da memória RAM": "8 GB"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0H34TQ34J?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -21487,7 +21487,7 @@ const PRODUCTS = [
       "Tamanho da Tela": "6,4 Polegadas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0H6NNJL1V?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -21539,7 +21539,7 @@ const PRODUCTS = [
       "Tamanho instalado da memória RAM": "4 GB"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0H5X34DNR?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -21589,7 +21589,7 @@ const PRODUCTS = [
       "Tamanho instalado da memória RAM": "24 GB"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0H1N3GXRX?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -21643,7 +21643,7 @@ const PRODUCTS = [
       "Tamanho da Tela": "6,9 Polegadas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GYPY79H9?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -21672,7 +21672,7 @@ const PRODUCTS = [
       "Operadora de celulares e tecnologia sem fio": "Todas as Operadoras"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GW9FH9B8?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -21722,7 +21722,7 @@ const PRODUCTS = [
       "Tamanho da Tela": "6,7 Polegadas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0H34VM48S?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -21776,7 +21776,7 @@ const PRODUCTS = [
       "Tamanho da Tela": "6,67 Polegadas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0F4PMQK69?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -21828,7 +21828,7 @@ const PRODUCTS = [
       "Tamanho instalado da memória RAM": "24 GB"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GZQX7CBJ?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -21883,7 +21883,7 @@ const PRODUCTS = [
       "Tamanho da Tela": "6,7 Polegadas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GYPYM43X?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -21940,7 +21940,7 @@ const PRODUCTS = [
       "Tamanho da Tela": "6,77 Polegadas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0H1NSD956?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -21992,7 +21992,7 @@ const PRODUCTS = [
       "Tamanho da Tela": "6,3 Polegadas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0H1YYX6VP?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -22042,7 +22042,7 @@ const PRODUCTS = [
       "Tamanho da Tela": "6,7 Polegadas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0H34WKMJJ?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -22090,7 +22090,7 @@ const PRODUCTS = [
       "Tamanho instalado da memória RAM": "12 GB"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0H1YLBMMC?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -22142,7 +22142,7 @@ const PRODUCTS = [
       "Tamanho da Tela": "6,7 Polegadas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0H1YY12R8?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -22195,7 +22195,7 @@ const PRODUCTS = [
       "Tamanho da Tela": "6,67 Polegadas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0H1SLW7L1?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -22241,7 +22241,7 @@ const PRODUCTS = [
       "Tamanho da Tela": "6,7 Polegadas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0H37ZQQFP?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -22283,7 +22283,7 @@ const PRODUCTS = [
       "Operadora de celulares e tecnologia sem fio": "Todas as Operadoras"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CW9MHHHT?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   },
   {
@@ -22335,7 +22335,7 @@ const PRODUCTS = [
       "Taxa de Atualização": "165"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GZPRQ9JJ?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T16:24:13.000Z",
+    "last_checked_at": "2026-07-20T16:24:18.000Z",
     "spotlight": false
   }
 ];
