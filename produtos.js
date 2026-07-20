@@ -13,10 +13,10 @@ const PRODUCTS = [
     "avaliacao": 4.5,
     "qtd_avaliacoes": 1281,
     "coupon_code": null,
-    "description": "",
+    "description": "Adquira o Fogão Elétrico Portátil Elgin Double Cook 2 Bocas (220V) na Amazon por apenas R$ 84.90! Sua alta avaliação (4.5/5) e mais de mil reviews confirmam a qualidade e praticidade, entregues com a confiabilidade da Amazon para sua cozinha.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0DCLXRD5X?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T20:55:32.000Z",
+    "last_checked_at": "2026-07-20T21:04:18.000Z",
     "spotlight": true
   },
   {
@@ -33,10 +33,10 @@ const PRODUCTS = [
     "avaliacao": 4.6,
     "qtd_avaliacoes": 5352,
     "coupon_code": null,
-    "description": "",
+    "description": "Garanta ar puro e estilo na sua cozinha com o Depurador Suggar Slim 60cm preto 3 velocidades. Comprovado por mais de 5 mil avaliações positivas (4.6/5) e disponível na Amazon por R$ 311,99, você adquire um produto de alta confiança e excelente custo-benefício.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0B3SJ345V?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T20:55:32.000Z",
+    "last_checked_at": "2026-07-20T21:04:18.000Z",
     "spotlight": true
   },
   {
@@ -53,10 +53,10 @@ const PRODUCTS = [
     "avaliacao": 4.2,
     "qtd_avaliacoes": 678,
     "coupon_code": null,
-    "description": "",
+    "description": "Com este suporte ajustável e robusto para até 200kg, você move facilmente geladeiras e outros eletrodomésticos pesados com total segurança e praticidade, por apenas R$ 29,89. Sua alta aprovação de 4.2/5 em 678 avaliações na Amazon garante uma compra confiável.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0FP1251TD?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T20:55:32.000Z",
+    "last_checked_at": "2026-07-20T21:04:18.000Z",
     "spotlight": true
   },
   {
@@ -73,10 +73,10 @@ const PRODUCTS = [
     "avaliacao": 4.6,
     "qtd_avaliacoes": 2109,
     "coupon_code": null,
-    "description": "",
+    "description": "Adquira o Depurador de Ar Suggar Slim 80cm por R$ 385,00 na Amazon e tenha a certeza de um produto bem avaliado, com impressionantes 4.6/5 estrelas em mais de 2100 reviews. Essa popularidade atesta a qualidade e confiabilidade, aliadas à segurança e praticidade que só a compra online na Amazon oferece.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0B3SHMB2W?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T20:55:32.000Z",
+    "last_checked_at": "2026-07-20T21:04:18.000Z",
     "spotlight": true
   },
   {
@@ -93,10 +93,10 @@ const PRODUCTS = [
     "avaliacao": 4.8,
     "qtd_avaliacoes": 9611,
     "coupon_code": null,
-    "description": "",
+    "description": "Garanta um ambiente livre de odores no seu banheiro e pia com os sacos de lixo Dover-Roll Odor Defense Pure Fresh. Com uma incrível avaliação de 4.8/5 por mais de 9 mil clientes e o preço de R$14.99, é a escolha inteligente e confiável para sua casa, com a praticidade da Amazon.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0876YDWVC?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T20:55:32.000Z",
+    "last_checked_at": "2026-07-20T21:04:18.000Z",
     "spotlight": true
   },
   {
@@ -113,10 +113,10 @@ const PRODUCTS = [
     "avaliacao": 4.8,
     "qtd_avaliacoes": 664,
     "coupon_code": null,
-    "description": "",
+    "description": "A Máquina de Lavar Electrolux 11kg Essential Care é uma excelente escolha na Amazon, com aprovação de 4.8/5 estrelas de 664 clientes. Garanta a sua com a segurança e praticidade da compra online.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B084R94R4S?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T20:55:32.000Z",
+    "last_checked_at": "2026-07-20T21:04:18.000Z",
     "spotlight": true
   },
   {
@@ -133,10 +133,10 @@ const PRODUCTS = [
     "avaliacao": 4.7,
     "qtd_avaliacoes": 4333,
     "coupon_code": null,
-    "description": "",
+    "description": "Proteja suas roupas delicadas na máquina com o Kit 3 Sacos Oikos, altamente avaliado (4.7/5) por milhares de clientes na Amazon. Por apenas R$ 25,00, garanta a durabilidade de camisetas e roupas íntimas com a praticidade e confiança de comprar na Amazon.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B086WWQX1S?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T20:55:32.000Z",
+    "last_checked_at": "2026-07-20T21:04:18.000Z",
     "spotlight": false
   },
   {
@@ -153,10 +153,10 @@ const PRODUCTS = [
     "avaliacao": 4.6,
     "qtd_avaliacoes": 224,
     "coupon_code": null,
-    "description": "",
+    "description": "Adquira a Máquina de Lavar Panasonic 15kg com Função Vanish na Amazon e desfrute de alta capacidade e tecnologia para roupas impecáveis. A excelente avaliação de 4.6/5 em 224 reviews garante a escolha de um produto de qualidade comprovada, com a segurança e praticidade da compra online.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B00HGNXC8Q?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T20:55:32.000Z",
+    "last_checked_at": "2026-07-20T21:04:18.000Z",
     "spotlight": false
   },
   {
@@ -173,10 +173,10 @@ const PRODUCTS = [
     "avaliacao": 4.2,
     "qtd_avaliacoes": 3243,
     "coupon_code": null,
-    "description": "",
+    "description": "Estabilize e eleve lavadoras, secadoras ou geladeiras com este pacote de 4 calços de borracha da Amazon. Por apenas R$ 14.49, sua alta avaliação de 4.2/5 de milhares de clientes prova ser uma solução eficaz e econômica para reduzir vibrações.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B08NWQHGR4?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T20:55:32.000Z",
+    "last_checked_at": "2026-07-20T21:04:18.000Z",
     "spotlight": false
   },
   {
@@ -193,10 +193,10 @@ const PRODUCTS = [
     "avaliacao": 4.4,
     "qtd_avaliacoes": 1484,
     "coupon_code": null,
-    "description": "",
+    "description": "Proteja sua máquina de lavar Brastemp, Electrolux ou Consul de diversas capacidades com esta capa impermeável e forrada. Garanta uma compra segura e confiável na Amazon, com um produto de ótimo custo-benefício e mais de mil avaliações positivas (4.4/5).",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0D7NPF9Z2?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T20:55:32.000Z",
+    "last_checked_at": "2026-07-20T21:04:18.000Z",
     "spotlight": false
   },
   {
@@ -213,10 +213,10 @@ const PRODUCTS = [
     "avaliacao": 4.7,
     "qtd_avaliacoes": 170,
     "coupon_code": null,
-    "description": "",
+    "description": "Não perca a chance de adquirir a Máquina de Lavar Electrolux LED17 de 17kg na Amazon, com Cesto Inox, Jet&Clean e Ultra Filter. Aproveite a confiança de 170 avaliações de 4.7/5 para garantir tecnologia e alta capacidade, entregues com a praticidade e segurança que só a Amazon oferece.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B09B929QDL?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T20:55:32.000Z",
+    "last_checked_at": "2026-07-20T21:04:18.000Z",
     "spotlight": false
   },
   {
@@ -233,10 +233,10 @@ const PRODUCTS = [
     "avaliacao": 4.5,
     "qtd_avaliacoes": 975,
     "coupon_code": null,
-    "description": "",
+    "description": "A Lavadora Suggar Lavamax Eco 20KG, com preço imperdível de R$ 659,00 na Amazon, oferece máxima capacidade e eficiência para suas roupas. Sua alta avaliação de 4.5/5 por quase mil clientes atesta a qualidade e confiabilidade de uma compra inteligente.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0BSR6FFD8?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T20:55:32.000Z",
+    "last_checked_at": "2026-07-20T21:04:18.000Z",
     "spotlight": false
   },
   {
@@ -256,7 +256,7 @@ const PRODUCTS = [
     "description": "",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B07CZ3R2P8?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T20:55:32.000Z",
+    "last_checked_at": "2026-07-20T21:04:18.000Z",
     "spotlight": false
   },
   {
@@ -273,10 +273,10 @@ const PRODUCTS = [
     "avaliacao": 4.5,
     "qtd_avaliacoes": 5737,
     "coupon_code": null,
-    "description": "",
+    "description": "Proteja seu eletrodoméstico valioso com este protetor contra quedas e surtos de energia 127V, disponível na Amazon. Por apenas R$ 45,14 e com uma avaliação de 4.5/5 estrelas de milhares de clientes, é a escolha inteligente para garantir a durabilidade da sua geladeira ou freezer.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0798XT2VK?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T20:55:32.000Z",
+    "last_checked_at": "2026-07-20T21:04:18.000Z",
     "spotlight": false
   },
   {
@@ -293,10 +293,10 @@ const PRODUCTS = [
     "avaliacao": 4.6,
     "qtd_avaliacoes": 55,
     "coupon_code": null,
-    "description": "",
+    "description": "Adquira a Lava-Louças Electrolux 14 Serviços Inox com Programa Lava e Seca na Amazon para garantir um eletrodoméstico de alta qualidade, elogiado com 4.6/5 estrelas por 55 compradores, desfrutando da confiabilidade Electrolux com a entrega segura da plataforma.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0FLQJJ47J?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T20:55:32.000Z",
+    "last_checked_at": "2026-07-20T21:04:18.000Z",
     "spotlight": false
   },
   {
@@ -313,10 +313,10 @@ const PRODUCTS = [
     "avaliacao": 4.7,
     "qtd_avaliacoes": 5575,
     "coupon_code": null,
-    "description": "",
+    "description": "Adquira o Cooktop a Gás Mondial CTG-01 na Amazon por R$ 349,00 e tenha a certeza de um eletrodoméstico com excelente custo-benefício. Com uma notável avaliação de 4.7/5 de mais de 5.500 reviews, é a escolha ideal para uma cozinha moderna e confiável.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B085JFRRSW?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T20:55:32.000Z",
+    "last_checked_at": "2026-07-20T21:04:18.000Z",
     "spotlight": false
   },
   {
@@ -333,10 +333,10 @@ const PRODUCTS = [
     "avaliacao": 4.5,
     "qtd_avaliacoes": 2017,
     "coupon_code": null,
-    "description": "",
+    "description": "Garanta o Cooktop Fischer 5 bocas, um eletrodoméstico com impressionante aprovação de 4.5/5 em 2017 avaliações, por R$ 979.90 na Amazon. Adquira a qualidade comprovada da mesa inox bivolt com a confiança de milhares de consumidores satisfeitos.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B07GWXBGYS?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T20:55:32.000Z",
+    "last_checked_at": "2026-07-20T21:04:18.000Z",
     "spotlight": false
   },
   {
@@ -353,10 +353,10 @@ const PRODUCTS = [
     "avaliacao": 4.8,
     "qtd_avaliacoes": 1323,
     "coupon_code": null,
-    "description": "",
+    "description": "Adquira o Cooktop 4 Bocas Itatiaia Essencial na Amazon e desfrute de um excelente produto com mesa de vidro temperado e acendimento automático por apenas R$ 319,00. A alta avaliação de 4.8/5 em mais de 1300 reviews, aliada à praticidade e segurança da compra na Amazon, garante uma escolha inteligente.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0B7C9HXGL?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T20:55:32.000Z",
+    "last_checked_at": "2026-07-20T21:04:18.000Z",
     "spotlight": false
   },
   {
@@ -373,10 +373,10 @@ const PRODUCTS = [
     "avaliacao": 4.8,
     "qtd_avaliacoes": 7,
     "coupon_code": null,
-    "description": "",
+    "description": "Adquira na Amazon a Máquina de Lavar Brastemp 14kg, com Smart Sensor e Função Reduzir Tempo, aproveitando a praticidade da compra online e a confiança de um produto já avaliado em 4.8/5 por clientes satisfeitos.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0G3Y8Y619?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T20:55:32.000Z",
+    "last_checked_at": "2026-07-20T21:04:18.000Z",
     "spotlight": false
   },
   {
@@ -393,10 +393,10 @@ const PRODUCTS = [
     "avaliacao": 4.7,
     "qtd_avaliacoes": 980,
     "coupon_code": null,
-    "description": "",
+    "description": "Adquira na Amazon o Depurador de Ar Suggar Slim Inox e purifique sua cozinha com um design de embutir elegante, desfrutando da alta aprovação de 4.7/5 de quase mil clientes e da comodidade de uma compra segura online.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0816YJYQB?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T20:55:32.000Z",
+    "last_checked_at": "2026-07-20T21:04:18.000Z",
     "spotlight": false
   },
   {
@@ -413,10 +413,10 @@ const PRODUCTS = [
     "avaliacao": 4.7,
     "qtd_avaliacoes": 517,
     "coupon_code": null,
-    "description": "",
+    "description": "Compre a Samsung Lava e Seca WD11M na Amazon e invista em um eletrodoméstico 2 em 1 com Digital Inverter, comprovado pela alta avaliação 4.7/5 de 517 clientes. Tenha a certeza de uma compra segura e a praticidade de lavar e secar com eficiência em um único aparelho.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0B61WJRY5?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T20:55:32.000Z",
+    "last_checked_at": "2026-07-20T21:04:18.000Z",
     "spotlight": false
   },
   {
@@ -433,10 +433,10 @@ const PRODUCTS = [
     "avaliacao": 4.8,
     "qtd_avaliacoes": 857,
     "coupon_code": null,
-    "description": "",
+    "description": "Aproveite a Máquina de Lavar Electrolux 15kg na Amazon, uma escolha inteligente com Cesto Inox e Jet&Clean, respaldada por uma impressionante avaliação de 4.8/5 de 857 clientes, garantindo qualidade e satisfação em sua casa.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B09B8W3KQP?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T20:55:32.000Z",
+    "last_checked_at": "2026-07-20T21:04:18.000Z",
     "spotlight": false
   },
   {
@@ -456,7 +456,7 @@ const PRODUCTS = [
     "description": "",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0BTZBQDMC?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T20:55:32.000Z",
+    "last_checked_at": "2026-07-20T21:04:18.000Z",
     "spotlight": false
   },
   {
@@ -476,7 +476,7 @@ const PRODUCTS = [
     "description": "",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0FJJ3YY9B?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T20:55:32.000Z",
+    "last_checked_at": "2026-07-20T21:04:18.000Z",
     "spotlight": false
   },
   {
@@ -496,7 +496,7 @@ const PRODUCTS = [
     "description": "",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B07Q6LVF9J?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T20:55:32.000Z",
+    "last_checked_at": "2026-07-20T21:04:18.000Z",
     "spotlight": false
   },
   {
@@ -516,7 +516,7 @@ const PRODUCTS = [
     "description": "",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0FK163DY6?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T20:55:32.000Z",
+    "last_checked_at": "2026-07-20T21:04:18.000Z",
     "spotlight": false
   },
   {
@@ -536,7 +536,7 @@ const PRODUCTS = [
     "description": "",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B09KYJBZHS?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T20:55:32.000Z",
+    "last_checked_at": "2026-07-20T21:04:18.000Z",
     "spotlight": false
   },
   {
@@ -556,7 +556,7 @@ const PRODUCTS = [
     "description": "",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0BVNK3QD5?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T20:55:32.000Z",
+    "last_checked_at": "2026-07-20T21:04:18.000Z",
     "spotlight": false
   },
   {
@@ -576,7 +576,7 @@ const PRODUCTS = [
     "description": "",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0B3SHRP7S?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T20:55:32.000Z",
+    "last_checked_at": "2026-07-20T21:04:18.000Z",
     "spotlight": false
   },
   {
@@ -596,7 +596,7 @@ const PRODUCTS = [
     "description": "",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0FVPMV5D8?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T20:55:32.000Z",
+    "last_checked_at": "2026-07-20T21:04:18.000Z",
     "spotlight": false
   }
 ];
