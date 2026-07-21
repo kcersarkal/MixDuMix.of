@@ -610,7 +610,7 @@ function spotlightMarkup(p) {
         <div class="price-row">
           ${p.price_original && p.price_original > p.price_current ? discountBadge(Math.round((1 - p.price_current/p.price_original) * 100), 'lg') : ''}
           <div>
-            <div class="price-row" style="margin-bottom:2px;"><span class="price-current" style="font-size:32px;">R$ ${fmtPrice(p.price_current)}</span></div>
+            <div class="price-row" style="margin-bottom:2px;"><span class="price-current" style="font-size:40px;color:var(--orange);">R$ ${fmtPrice(p.price_current)}</span></div>
             ${p.price_original && p.price_original > p.price_current ? `<span class="price-original">R$ ${fmtPrice(p.price_original)}</span>` : ''}
           </div>
         </div>
