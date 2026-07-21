@@ -88,7 +88,7 @@ const PRODUCTS = [
       "Tipo de Acabamento": "Pintado"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0B3SJ345V?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-21T19:55:42.000Z",
+    "last_checked_at": "2026-07-21T20:11:02.000Z",
     "spotlight": true
   },
   {
@@ -431,7 +431,7 @@ const PRODUCTS = [
       "Forma": "Redondo"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B08NWQHGR4?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-21T19:57:19.000Z",
+    "last_checked_at": "2026-07-21T20:12:33.000Z",
     "spotlight": false
   },
   {
@@ -531,7 +531,7 @@ const PRODUCTS = [
       "Local de acesso": "Carga superior"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0G3Y8Y619?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-21T19:58:04.000Z",
+    "last_checked_at": "2026-07-21T20:13:18.000Z",
     "spotlight": false
   },
   {
@@ -912,7 +912,7 @@ const PRODUCTS = [
       "Característica Especial": "Compressor inversor"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GJG36MCZ?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-21T19:59:51.000Z",
+    "last_checked_at": "2026-07-21T20:15:01.000Z",
     "spotlight": false
   },
   {
@@ -957,7 +957,7 @@ const PRODUCTS = [
       "Característica Especial": "Compacto"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FH5PXDTF?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-21T20:00:02.000Z",
+    "last_checked_at": "2026-07-21T20:15:13.000Z",
     "spotlight": false
   },
   {
@@ -996,7 +996,7 @@ const PRODUCTS = [
       "Local de acesso": "Carga frontal"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07Q6LVF9J?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-21T20:00:12.000Z",
+    "last_checked_at": "2026-07-21T20:15:24.000Z",
     "spotlight": false
   },
   {
@@ -1189,7 +1189,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/41rECLQvLwL._AC_SL1200_.jpg",
     "canonical": null,
     "category": "Eletrodomésticos",
-    "price_current": 619.46,
+    "price_current": 549,
     "price_original": null,
     "discount_percentage": null,
     "tem_selo_prime": false,
@@ -1232,7 +1232,7 @@ const PRODUCTS = [
       "Local de acesso": "Carga superior"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0BSR6FFD8?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-21T20:01:10.000Z",
+    "last_checked_at": "2026-07-21T20:16:19.000Z",
     "spotlight": false
   },
   {
@@ -1823,7 +1823,7 @@ const PRODUCTS = [
       "Disponível para compra desde": "29 julho 2023"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CD4SCM33?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-21T20:03:53.000Z",
+    "last_checked_at": "2026-07-21T20:19:00.000Z",
     "spotlight": false
   },
   {
@@ -1871,7 +1871,7 @@ const PRODUCTS = [
       "Dimensões do produto": "12C x 7L x 17A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GSH6DCCJ?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-21T20:04:04.000Z",
+    "last_checked_at": "2026-07-21T20:19:11.000Z",
     "spotlight": false
   },
   {
@@ -1880,7 +1880,7 @@ const PRODUCTS = [
     "image": "https://m.media-amazon.com/images/I/51NFGyGQN8L._SL1000_.jpg",
     "canonical": null,
     "category": "cozinha",
-    "price_current": 629.87,
+    "price_current": 627.2,
     "price_original": null,
     "discount_percentage": null,
     "tem_selo_prime": false,
@@ -1916,7 +1916,7 @@ const PRODUCTS = [
       "Componentes Incluídos": "Purificador de água e bandeja para copo"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B08X66RQ48?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-21T14:27:33.084769+00:00",
+    "last_checked_at": "2026-07-21T20:19:47.000Z",
     "spotlight": false
   },
   {
@@ -2099,7 +2099,7 @@ const PRODUCTS = [
       "Tipo de Acabamento": "Metálico"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B076HYKFL7?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-21T20:05:25.000Z",
+    "last_checked_at": "2026-07-21T20:20:33.000Z",
     "spotlight": false
   },
   {
@@ -2236,7 +2236,7 @@ const PRODUCTS = [
       "Marca": "Electrolux"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0F256PXM8?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-21T20:06:23.000Z",
+    "last_checked_at": "2026-07-21T20:21:32.000Z",
     "spotlight": false
   },
   {
@@ -2510,7 +2510,7 @@ const PRODUCTS = [
       "Dimensões do produto": "37P x 26,5L x 38A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CH3WBKN6?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-21T20:07:31.000Z",
+    "last_checked_at": "2026-07-21T20:22:42.000Z",
     "spotlight": false
   },
   {
@@ -2887,42 +2887,6 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FTT42SDP?tag=mixstore04b3-20&ref_=mixdumix_produto",
     "last_checked_at": "2026-07-21T14:35:23.474529+00:00",
-    "spotlight": false
-  },
-  {
-    "asin": "B0H5T7JHF4",
-    "title": "Furadeira e Parafusadeira de Impacto Premium Sem Fio 48V com 2 Baterias Recarregáveis Bivolt, LED Integrado, Kit Completo com",
-    "image": "https://m.media-amazon.com/images/I/71Rm2ixEvXL._AC_SL1254_.jpg",
-    "canonical": null,
-    "category": "Ferramentas e Materiais de Construção",
-    "price_current": 111.14,
-    "price_original": null,
-    "discount_percentage": null,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 5.0,
-    "qtd_avaliacoes": 4,
-    "coupon_code": null,
-    "description": "Essa furadeira e parafusadeira de impacto premium sem fio é uma verdadeira joia para qualquer profissional ou entusiasta de ferramentas! Com duas baterias recarregáveis de longa duração, iluminação LED integrada e kit completo com acessórios, você terá todo o que precisa para realizar trabalhos contínuos sem interrupções. Além disso, a regulagem de força ajustável e controle de torque garantem precisão e segurança em diferentes materiais e aplicações, tornando essa ferramenta uma escolha excelente para quem busca liberdade de movimento e eficiência.",
-    "informacoes_produto": {
-      "Fonte de energia": "Eletrica",
-      "Voltagem": "110 Volts, 220 Volts",
-      "Tipo de broca": "Broca de combinação",
-      "Dimensões do item C x L x A": "8C x 29L x 26A centímetros",
-      "Nome da marca": "Hardline",
-      "Componentes incluídos": "Cabo Alimentação, Case, Kit De Brocas, Manual do usuário, Parafusadeira e Furadeira Sem Fio 21V com LED",
-      "Número do modelo": "001",
-      "Fabricante": "Importado",
-      "Descrição da garantia": "7 dias",
-      "País de origem": "China",
-      "ASIN": "B0H5T7JHF4",
-      "Marca": "Hardline",
-      "Fonte de alimentação": "Eletrica",
-      "Tensão": "110 Volts, 220 Volts",
-      "Dimensões do produto": "8C x 29L x 26A centímetros"
-    },
-    "affiliate_url": "https://www.amazon.com.br/dp/B0H5T7JHF4?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-21T20:09:13.000Z",
     "spotlight": false
   },
   {
@@ -3993,7 +3957,7 @@ const PRODUCTS = [
       "Modo de Saída de Áudio": "Stereo"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DB1753RZ?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-21T20:13:36.000Z",
+    "last_checked_at": "2026-07-21T20:28:52.000Z",
     "spotlight": false
   },
   {
@@ -4036,7 +4000,7 @@ const PRODUCTS = [
       "Dimensões do item C x L x A": "10,1 x 24,5 x 26,6 centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GJDT6PN2?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-21T20:13:48.000Z",
+    "last_checked_at": "2026-07-21T20:29:02.000Z",
     "spotlight": false
   },
   {
@@ -4554,7 +4518,7 @@ const PRODUCTS = [
       "Fonte de alimentação": "Energia elétrica"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FBGDSRP7?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-21T20:16:08.000Z",
+    "last_checked_at": "2026-07-21T20:31:20.000Z",
     "spotlight": false
   },
   {
@@ -4730,7 +4694,7 @@ const PRODUCTS = [
       "Fator de forma dos fones de ouvido": "True Wireless"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FFZ16X3V?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-21T20:16:41.000Z",
+    "last_checked_at": "2026-07-21T20:31:56.000Z",
     "spotlight": false
   },
   {
@@ -4846,7 +4810,7 @@ const PRODUCTS = [
       "Faixa etária (descrição)": "Adulto"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CKVRTBPS?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-21T20:17:15.000Z",
+    "last_checked_at": "2026-07-21T20:32:34.000Z",
     "spotlight": false
   },
   {
@@ -5316,7 +5280,7 @@ const PRODUCTS = [
       "Operadora de celulares e tecnologia sem fio": "Todas as Operadoras"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GW9FH9B8?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-21T20:20:16.000Z",
+    "last_checked_at": "2026-07-21T20:35:30.000Z",
     "spotlight": false
   },
   {
@@ -5370,7 +5334,7 @@ const PRODUCTS = [
       "Tamanho da Tela": "6,67 Polegadas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0F4PMQK69?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-21T20:20:37.000Z",
+    "last_checked_at": "2026-07-21T20:35:53.000Z",
     "spotlight": false
   },
   {
@@ -5427,7 +5391,7 @@ const PRODUCTS = [
       "Tamanho da Tela": "6,77 Polegadas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0H1NSD956?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-21T20:20:59.000Z",
+    "last_checked_at": "2026-07-21T20:36:17.000Z",
     "spotlight": false
   },
   {
@@ -5478,7 +5442,7 @@ const PRODUCTS = [
       "Tamanho da Tela": "6,3 Polegadas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0H1YLBMMC?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-21T20:21:33.000Z",
+    "last_checked_at": "2026-07-21T20:36:48.000Z",
     "spotlight": false
   },
   {
@@ -5531,7 +5495,7 @@ const PRODUCTS = [
       "Tamanho da Tela": "6,67 Polegadas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0H1SLW7L1?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-21T20:21:54.000Z",
+    "last_checked_at": "2026-07-21T20:37:09.000Z",
     "spotlight": false
   }
 ];
