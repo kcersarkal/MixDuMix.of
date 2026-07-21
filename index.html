@@ -623,7 +623,7 @@ function productCard(p) {
 
 function spotlightMarkup(p) {
   return `
-    <div class="spotlight-label">Ofertas em destaque</div>
+    <div class="spotlight-label">Produtos em destaque</div>
     <div class="spotlight-card" onclick="navigate('produto','${p.asin}')" style="cursor:pointer;">
       <div class="spotlight-img"><img src="${p.image}" alt="${p.title}" loading="lazy" onerror="this.parentElement.innerHTML='<div style=\'padding:40px;text-align:center;color:var(--gray-text-light)\'>Imagem indispon\u00edvel</div>'"></div>
       <div class="spotlight-body">
