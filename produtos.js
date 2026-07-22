@@ -7235,7 +7235,7 @@ const PRODUCTS = [
       "Local de acesso": "Carga frontal"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B00HGNXC8Q?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-22T17:47:56.207274+00:00",
+    "last_checked_at": "2026-07-22T17:52:51.184515+00:00",
     "spotlight": false
   },
   {
@@ -7290,7 +7290,7 @@ const PRODUCTS = [
       "Marca": "EOS"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GQBG77KJ?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-22T17:48:05.467889+00:00",
+    "last_checked_at": "2026-07-22T17:53:00.408840+00:00",
     "spotlight": false
   },
   {
@@ -7343,7 +7343,7 @@ const PRODUCTS = [
       "Local de acesso": "Carga superior"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0D155SPMW?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-22T17:48:14.307032+00:00",
+    "last_checked_at": "2026-07-22T17:53:09.974059+00:00",
     "spotlight": false
   },
   {
@@ -7399,7 +7399,7 @@ const PRODUCTS = [
       "Marca": "HQ Screen"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DTZQP72X?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-22T17:48:23.560110+00:00",
+    "last_checked_at": "2026-07-22T17:53:18.943148+00:00",
     "spotlight": false
   },
   {
@@ -7440,7 +7440,7 @@ const PRODUCTS = [
       "Marca": "Electrolux"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0F256PXM8?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-22T17:48:41.578490+00:00",
+    "last_checked_at": "2026-07-22T17:53:34.519754+00:00",
     "spotlight": false
   },
   {
@@ -7486,7 +7486,7 @@ const PRODUCTS = [
       "Característica Especial": "Revestimento Antiaderente"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FDLHZNS6?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-22T17:48:49.984081+00:00",
+    "last_checked_at": "2026-07-22T17:53:43.892997+00:00",
     "spotlight": false
   },
   {
@@ -7528,7 +7528,7 @@ const PRODUCTS = [
       "Tipo de Garrafa": "Garrafa Termica"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0F89VV1YS?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-22T17:48:58.090482+00:00",
+    "last_checked_at": "2026-07-22T17:53:53.344403+00:00",
     "spotlight": false
   },
   {
@@ -7587,7 +7587,7 @@ const PRODUCTS = [
       "Fonte de alimentação": "Energia elétrica"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B076BB1XPG?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-22T17:49:07.544423+00:00",
+    "last_checked_at": "2026-07-22T17:54:03.171960+00:00",
     "spotlight": false
   },
   {
@@ -7638,7 +7638,7 @@ const PRODUCTS = [
       "Tensão": "220 Volts"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0F678PCRM?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-22T17:49:16.364710+00:00",
+    "last_checked_at": "2026-07-22T17:54:11.310480+00:00",
     "spotlight": false
   },
   {
@@ -7679,7 +7679,7 @@ const PRODUCTS = [
       "Tensão de Saída": "250 Volts"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0777S9WRF?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-22T17:49:25.670728+00:00",
+    "last_checked_at": "2026-07-22T17:54:19.755286+00:00",
     "spotlight": false
   },
   {
@@ -7726,7 +7726,7 @@ const PRODUCTS = [
       "Dimensões do item C x L x A": "18 x 72 x 178 milímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B076HWLP7P?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-22T17:49:34.055555+00:00",
+    "last_checked_at": "2026-07-22T17:54:27.370126+00:00",
     "spotlight": false
   },
   {
@@ -7750,14 +7750,14 @@ const PRODUCTS = [
       "Tipo de esporte": "Golfe",
       "Nome do time": "Não indicado",
       "Número do modelo": "GLM 40",
+      "Quantidade de Unidades": "1 Peça",
       "Número de identificação de comércio internacional": "03165140790406",
-      "Número da peça": "GLM 40",
-      "Nome do Tipo de Produto": "Medidores",
       "País de origem": "Malásia",
-      "Fabricante": "Robert Bosch Ltda",
-      "Descrição da garantia": "1 ano de garantia",
-      "Contagem de unidades": "1 Peça",
       "Componentes incluídos": "1 Trena Laser de 40 m Bosch GLM 40, 1 Manual de instruções, 1 Certificado do fabricante, 2 pilhas AAA, 1 Bolsa de proteção",
+      "Nome do Tipo de Produto": "Medidores",
+      "Fabricante": "Robert Bosch Ltda",
+      "Número da peça": "GLM 40",
+      "Descrição da garantia": "1 ano de garantia",
       "ASIN": "B00R0Z7TFM",
       "Descrição da bateria": "Lítio",
       "Nível de resistência à água": "Não resistente à água",
@@ -7772,7 +7772,7 @@ const PRODUCTS = [
       "Esporte": "Golfe"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B00R0Z7TFM?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-22T17:49:42.816324+00:00",
+    "last_checked_at": "2026-07-22T17:54:35.819325+00:00",
     "spotlight": false
   },
   {
@@ -7835,7 +7835,7 @@ const PRODUCTS = [
       "Tipo de Instalação": "Disco rígido externo"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0BQX6DVWY?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-22T17:50:00.872428+00:00",
+    "last_checked_at": "2026-07-22T17:54:44.318346+00:00",
     "spotlight": false
   },
   {
@@ -7879,7 +7879,7 @@ const PRODUCTS = [
       "Dimensões do item C x L x A": "10 x 5 x 0,1 centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CX4CYHVV?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-22T17:50:10.516602+00:00",
+    "last_checked_at": "2026-07-22T17:54:52.596397+00:00",
     "spotlight": false
   },
   {
@@ -7936,7 +7936,7 @@ const PRODUCTS = [
       "Componentes Incluídos": "Manual do usuário, Webcam"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FLZ2T78C?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-22T17:50:19.918763+00:00",
+    "last_checked_at": "2026-07-22T17:55:00.765674+00:00",
     "spotlight": false
   },
   {
@@ -8004,7 +8004,7 @@ const PRODUCTS = [
       "Dimensões do produto": "23,7P x 112L x 69,4A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0F5X4LL89?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-22T17:50:29.141528+00:00",
+    "last_checked_at": "2026-07-22T17:55:09.504527+00:00",
     "spotlight": false
   },
   {
@@ -8052,7 +8052,7 @@ const PRODUCTS = [
       "Soquete da CPU": "Socket AM5"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DKFMSMYK?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-22T17:50:37.481856+00:00",
+    "last_checked_at": "2026-07-22T17:55:19.018027+00:00",
     "spotlight": false
   },
   {
@@ -8102,7 +8102,7 @@ const PRODUCTS = [
       "Faixa etária (descrição)": "Bebê"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0BGMD5LGF?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-22T17:50:45.291716+00:00",
+    "last_checked_at": "2026-07-22T17:55:27.363016+00:00",
     "spotlight": false
   },
   {
@@ -8177,7 +8177,7 @@ const PRODUCTS = [
       "Dimensões do produto": "35,9P x 190,1L x 113,2A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0F5X6NDTR?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-22T17:50:53.521989+00:00",
+    "last_checked_at": "2026-07-22T17:55:35.909066+00:00",
     "spotlight": false
   },
   {
@@ -8226,7 +8226,7 @@ const PRODUCTS = [
       "Soquete da CPU": "Socket AM4"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B09VCHQHZ6?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-22T17:51:02.777414+00:00",
+    "last_checked_at": "2026-07-22T17:55:44.610215+00:00",
     "spotlight": false
   },
   {
@@ -8275,7 +8275,7 @@ const PRODUCTS = [
       "Estilo da parte de trás": "malha"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0H48834YK?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-22T17:51:11.088102+00:00",
+    "last_checked_at": "2026-07-22T17:55:53.123986+00:00",
     "spotlight": false
   },
   {
@@ -8323,7 +8323,7 @@ const PRODUCTS = [
       "Nível de torragem": "Torra média"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B09V83L8G8?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-22T17:51:20.691607+00:00",
+    "last_checked_at": "2026-07-22T17:56:02.006702+00:00",
     "spotlight": false
   },
   {
@@ -8386,7 +8386,7 @@ const PRODUCTS = [
       "Modo de Saída de Áudio": "Stereo"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0B7Z4YXBT?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-22T17:51:28.211733+00:00",
+    "last_checked_at": "2026-07-22T17:56:11.435148+00:00",
     "spotlight": false
   },
   {
@@ -8430,7 +8430,7 @@ const PRODUCTS = [
       "Tipo de Cabelo": "Todos"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B09GSQMJ5T?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-22T17:51:37.464561+00:00",
+    "last_checked_at": "2026-07-22T17:56:20.330370+00:00",
     "spotlight": false
   },
   {
@@ -8460,20 +8460,20 @@ const PRODUCTS = [
       "Material": "Liga de aço",
       "Dimensões do item P x L x A": "6P x 21L x 23A centímetros",
       "Nome da marca": "Elgin",
-      "Componentes incluídos": "01 Fogão com uma placa de aquecimento, 04 Suportes para estabilização do aparelho, 01 Manual do Usuário",
+      "Componentes Incluídos": "01 Fogão com uma placa de aquecimento, 04 Suportes para estabilização do aparelho, 01 Manual do Usuário",
       "Fabricante": "Elgin",
       "Descrição da garantia": "90 dias",
-      "Número da peça": "42FOG0102000",
-      "Número do modelo": "42FOG0102000",
       "País de origem": "China",
       "Nome do Tipo de Produto": "Fogão Elétrico Portátil",
+      "Número do modelo": "42FOG0102000",
+      "Número da peça": "42FOG0102000",
       "ASIN": "B0DCLGCFZG",
       "Característica Especial": "Controle de temperatura, Leve, Portátil",
       "Marca": "Elgin",
       "Elementos de aquecimento": "1"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DCLGCFZG?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-22T17:51:46.263469+00:00",
+    "last_checked_at": "2026-07-22T17:56:27.917176+00:00",
     "spotlight": false
   },
   {
@@ -8515,7 +8515,7 @@ const PRODUCTS = [
       "Característica Especial": "Design sofisticado"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07CW5G3FD?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-22T17:51:54.311020+00:00",
+    "last_checked_at": "2026-07-22T17:56:35.610249+00:00",
     "spotlight": false
   },
   {
@@ -8552,7 +8552,7 @@ const PRODUCTS = [
       "Fator de Forma": "Embutido"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FVJF85D7?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-22T17:52:03.574533+00:00",
+    "last_checked_at": "2026-07-22T17:56:44.647717+00:00",
     "spotlight": false
   },
   {
@@ -8596,7 +8596,7 @@ const PRODUCTS = [
       "Vantagens do produto": "Cabelos 5x mais fortes, 2x mais macios e com muito mais brilho com este tratamento profissional."
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0B7SGQVT2?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-22T17:52:11.137396+00:00",
+    "last_checked_at": "2026-07-22T17:56:54.141947+00:00",
     "spotlight": false
   },
   {
@@ -8640,7 +8640,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Brinquedos, Controle de videogame, Controle remoto"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0C9R8RC1P?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-22T17:52:19.274818+00:00",
+    "last_checked_at": "2026-07-22T17:57:03.724494+00:00",
     "spotlight": false
   }
 ];
